@@ -26,3 +26,7 @@ header select {
         display: inline-block;
     }
 }
+
+h1 {
+    color: red;
+}

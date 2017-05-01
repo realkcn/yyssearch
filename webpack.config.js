@@ -15,7 +15,7 @@ var path = require('path');
  */
 var ENV = process.env.npm_lifecycle_event;
 var isTest = ENV === 'test' || ENV === 'test-watch';
-var isDev = ENV === 'build';
+var isDev = ( ENV === 'build' || ENV === 'server');
 var isProd = ENV === 'dist';
 
 var distPath = 'test';
@@ -71,8 +71,14 @@ module.exports=function makeWebpackConfig() {
             use: isTest ? 'null-loader' : ExtractTextPlugin.extract({
                 fallback: 'style-loader',
                 use: [
-                    {loader: 'css-loader', query: {sourceMap: true, importLoaders: 1}},
-                    {loader: 'postcss-loader', options: {plugins: [autoprefixer({browsers: ['last 2 versions']})]}}
+                    {loader: 'css-loader', query: {sourceMap: !isProd, importLoaders: 1}},
+                    {
+                        loader: 'postcss-loader', options: {
+                        plugins: [autoprefixer({browsers: ['last 2 versions']})],
+                        sourceMap: !isProd,
+                        ident: 'postcss'
+                    }
+                    }
                 ]
             })
         }, {
