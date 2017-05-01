@@ -1,0 +1,28 @@
+img {
+    max-width: 100%;
+}
+
+video {
+    max-width: 100%;
+    height: auto;
+}
+
+header ul li {
+    float: left;
+    list-style: none none;
+    margin-right: 10px;
+}
+
+header select {
+    display: none;
+}
+
+@media (max-width: 960px) {
+    header ul {
+        display: none;
+    }
+
+    header select {
+        display: inline-block;
+    }
+}

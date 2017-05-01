@@ -92,7 +92,7 @@ module.exports=function makeWebpackConfig() {
      */
     config.plugins = [
         new webpack.LoaderOptionsPlugin({
-            test: /\.scss$/i,
+            test: /\.(css|scss)$/i,
             options: {
                 postcss: {
                     plugins: [autoprefixer({browsers:['last 2 versions']})]
@@ -125,16 +125,24 @@ module.exports=function makeWebpackConfig() {
             // Only emit files when there are no errors
             new webpack.NoEmitOnErrorsPlugin(),
 
-            // Reference: http://webpack.github.io/docs/list-of-plugins.html#uglifyjsplugin
-            // Minify all javascript, switch loaders to minimizing mode
-            new webpack.optimize.UglifyJsPlugin(),
-
             // Copy assets from the public folder
             // Reference: https://github.com/kevlened/copy-webpack-plugin
             new CopyWebpackPlugin([{
                 from: __dirname + '/src/public'
             }])
         )
+    }
+
+    if (isProd) {
+        // Reference: http://webpack.github.io/docs/list-of-plugins.html#uglifyjsplugin
+        // Minify all javascript, switch loaders to minimizing mode
+        new webpack.optimize.UglifyJsPlugin({
+            sourceMap: true,
+            compress: {
+                warnings: false
+            },
+            mangle: true
+        })
     }
 
     config.devServer = {
