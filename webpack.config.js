@@ -18,6 +18,14 @@ var isTest = ENV === 'test' || ENV === 'test-watch';
 var isDev = ENV === 'build';
 var isProd = ENV === 'dist';
 
+var distPath = 'test';
+
+if (isDev) {
+    distPath = 'build';
+} else {
+    distPath = 'dist';
+}
+
 module.exports=function makeWebpackConfig() {
     /**
      * Config
@@ -31,8 +39,8 @@ module.exports=function makeWebpackConfig() {
     };
 
     config.output = {
-        path: path.resolve(__dirname, './build'),
-        publicPath: (isProd || isDev) ? "/" : "build/",
+        path: path.resolve(__dirname, './' + distPath),
+        publicPath: (isProd || isDev) ? '/' : distPath + '/',
         filename:'[name].bundle.js'
     };
 
@@ -64,7 +72,7 @@ module.exports=function makeWebpackConfig() {
                 fallback: 'style-loader',
                 use: [
                     {loader: 'css-loader', query: {sourceMap: true}},
-                    {loader: 'postcss-loader'}
+                    {loader: 'postcss-loader', options: {plugins: [autoprefixer({browsers: ['last 2 versions']})]}}
                 ]
             })
         }, {
@@ -91,14 +99,6 @@ module.exports=function makeWebpackConfig() {
      * List: http://webpack.github.io/docs/list-of-plugins.html
      */
     config.plugins = [
-        new webpack.LoaderOptionsPlugin({
-            test: /\.(css|scss)$/i,
-            options: {
-                postcss: {
-                    plugins: [autoprefixer({browsers:['last 2 versions']})]
-                }
-            }
-        })
     ];
 
     // Skip rendering index.html in test mode
