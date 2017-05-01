@@ -71,7 +71,7 @@ module.exports=function makeWebpackConfig() {
             use: isTest ? 'null-loader' : ExtractTextPlugin.extract({
                 fallback: 'style-loader',
                 use: [
-                    {loader: 'css-loader', query: {sourceMap: true}},
+                    {loader: 'css-loader', query: {sourceMap: true, importLoaders: 1}},
                     {loader: 'postcss-loader', options: {plugins: [autoprefixer({browsers: ['last 2 versions']})]}}
                 ]
             })
