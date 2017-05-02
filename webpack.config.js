@@ -13,9 +13,11 @@ var path = require('path');
  * Env
  * Get npm lifecycle event to identify the environment
  */
+
 var ENV = process.env.npm_lifecycle_event;
+
 var isTest = ENV === 'test' || ENV === 'test-watch';
-var isDev = ( ENV === 'build' || ENV === 'server');
+var isDev = ( ENV === 'build' || ENV === 'server' || ENV === undefined);
 var isProd = ENV === 'dist';
 
 var distPath = 'test';
@@ -25,6 +27,9 @@ if (isDev) {
 } else {
     distPath = 'dist';
 }
+
+var buildProfile = isTest? 'test': isDev? 'develop' : isProd? 'product' : 'unknown';
+console.log('config: ', buildProfile);
 
 module.exports=function makeWebpackConfig() {
     /**
@@ -40,7 +45,7 @@ module.exports=function makeWebpackConfig() {
 
     config.output = {
         path: path.resolve(__dirname, './' + distPath),
-        publicPath: (isProd || isDev) ? '/' : distPath + '/',
+        publicPath: (isProd || isDev) ? './' : distPath + '/',
         filename:'[name].bundle.js'
     };
 
@@ -143,7 +148,7 @@ module.exports=function makeWebpackConfig() {
         // Reference: http://webpack.github.io/docs/list-of-plugins.html#uglifyjsplugin
         // Minify all javascript, switch loaders to minimizing mode
         new webpack.optimize.UglifyJsPlugin({
-            sourceMap: true,
+            sourceMap: false,
             compress: {
                 warnings: false
             },
@@ -151,6 +156,12 @@ module.exports=function makeWebpackConfig() {
         })
     }
 
+    if (isTest) {
+        config.devtool = 'inline-source-map';
+    }
+    else if (!isProd) {
+        config.devtool = 'cheap-module-source-map';
+    }
     config.devServer = {
         contentBase: './build',
         stats: 'minimal'
