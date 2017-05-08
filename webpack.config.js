@@ -45,7 +45,7 @@ module.exports=function makeWebpackConfig() {
 
     config.output = {
         path: path.resolve(__dirname, './' + distPath),
-        publicPath: (isProd || isDev) ? './' : distPath + '/',
+        publicPath: (isProd || isDev) ? '' : distPath + '/',
         filename:'[name].bundle.js'
     };
 
@@ -59,6 +59,9 @@ module.exports=function makeWebpackConfig() {
             test: /\.js$/,
             use: 'babel-loader',
             exclude: /node_modules/
+        }, {
+            test: /\.json$/,
+            loader: "json-loader"
         }, {
             // CSS LOADER
             // Reference: https://github.com/webpack/css-loader
@@ -164,7 +167,8 @@ module.exports=function makeWebpackConfig() {
     }
     config.devServer = {
         contentBase: './build',
-        stats: 'minimal'
+        stats: 'minimal',
+        inline: true
     };
     return config;
 }();

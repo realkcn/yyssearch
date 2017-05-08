@@ -30,3 +30,11 @@ header select {
 h1 {
     color: red;
 }
+
+div.div-group {
+    background-color: darkolivegreen;
+}
+
+div.div-war {
+    background-color: white;
+}

@@ -1,0 +1,7496 @@
+[
+  {
+    "name": "探索 第一章 雀食奇谭",
+    "wars": [
+      {
+        "name": "天邪鬼绿1-简单",
+        "rounds": [
+          {
+            "index": 0,
+            "monsters": [
+              {
+                "name": "天邪鬼绿",
+                "count": "1"
+              },
+              {
+                "name": "灯笼鬼",
+                "count": "2"
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "name": "天邪鬼绿1-困难",
+        "rounds": [
+          {
+            "index": 0,
+            "monsters": [
+              {
+                "name": "天邪鬼绿",
+                "count": "1"
+              },
+              {
+                "name": "跳跳犬",
+                "count": "2"
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "name": "天邪鬼绿2",
+        "rounds": [
+          {
+            "index": 0,
+            "monsters": [
+              {
+                "name": "天邪鬼绿",
+                "count": "1"
+              },
+              {
+                "name": "提灯小僧",
+                "count": "2"
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "name": "提灯小僧1",
+        "rounds": [
+          {
+            "index": 0,
+            "monsters": [
+              {
+                "name": "天邪鬼绿",
+                "count": "2"
+              },
+              {
+                "name": "提灯小僧",
+                "count": "1"
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "name": "提灯小僧2",
+        "rounds": [
+          {
+            "index": 0,
+            "monsters": [
+              {
+                "name": "提灯小僧",
+                "count": "1"
+              },
+              {
+                "name": "灯笼鬼",
+                "count": "2"
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "name": "首领：九命猫",
+        "rounds": [
+          {
+            "index": 0,
+            "monsters": [
+              {
+                "name": "九命猫",
+                "count": "3"
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "name": "挑战：天邪鬼绿",
+        "rounds": [
+          {
+            "index": 0,
+            "monsters": [
+              {
+                "name": "天邪鬼绿",
+                "count": "14"
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "name": "挑战：九命猫",
+        "rounds": [
+          {
+            "index": 0,
+            "monsters": [
+              {
+                "name": "九命猫",
+                "count": "14"
+              }
+            ]
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "name": "探索 第二章 幸福的彼岸",
+    "wars": [
+      {
+        "name": "帚神",
+        "rounds": [
+          {
+            "index": 0,
+            "monsters": [
+              {
+                "name": "盗墓小鬼",
+                "count": "1"
+              },
+              {
+                "name": "寄生魂",
+                "count": "1"
+              },
+              {
+                "name": "帚神",
+                "count": "1"
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "name": "盗墓小鬼1",
+        "rounds": [
+          {
+            "index": 0,
+            "monsters": [
+              {
+                "name": "盗墓小鬼",
+                "count": "1"
+              },
+              {
+                "name": "寄生魂",
+                "count": "2"
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "name": "盗墓小鬼1",
+        "rounds": [
+          {
+            "index": 0,
+            "monsters": [
+              {
+                "name": "盗墓小鬼",
+                "count": "1"
+              },
+              {
+                "name": "灯笼鬼",
+                "count": "2"
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "name": "寄生魂1",
+        "rounds": [
+          {
+            "index": 0,
+            "monsters": [
+              {
+                "name": "寄生魂",
+                "count": "1"
+              },
+              {
+                "name": "灯笼鬼",
+                "count": "2"
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "name": "寄生魂2",
+        "rounds": [
+          {
+            "index": 0,
+            "monsters": [
+              {
+                "name": "盗墓小鬼",
+                "count": "2"
+              },
+              {
+                "name": "寄生魂",
+                "count": "1"
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "name": "首领：座敷童子",
+        "rounds": [
+          {
+            "index": 0,
+            "monsters": [
+              {
+                "name": "座敷童子",
+                "count": "1"
+              },
+              {
+                "name": "天邪鬼绿",
+                "count": "2"
+              },
+              {
+                "name": "天邪鬼青",
+                "count": "1"
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "name": "挑战：提灯小僧",
+        "rounds": [
+          {
+            "index": 0,
+            "monsters": [
+              {
+                "name": "提灯小僧",
+                "count": "14"
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "name": "挑战：座敷童子",
+        "rounds": [
+          {
+            "index": 0,
+            "monsters": [
+              {
+                "name": "座敷童子",
+                "count": "14"
+              }
+            ]
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "name": "探索 第三章 凤凰林的占卜师",
+    "wars": [
+      {
+        "name": "天邪鬼黄1",
+        "rounds": [
+          {
+            "index": 0,
+            "monsters": [
+              {
+                "name": "天邪鬼黄",
+                "count": "1"
+              },
+              {
+                "name": "帚神",
+                "count": "2"
+              },
+              {
+                "name": "涂壁",
+                "count": "1"
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "name": "天邪鬼黄2",
+        "rounds": [
+          {
+            "index": 0,
+            "monsters": [
+              {
+                "name": "天邪鬼黄",
+                "count": "1"
+              },
+              {
+                "name": "童女",
+                "count": "3"
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "name": "赤舌1",
+        "rounds": [
+          {
+            "index": 0,
+            "monsters": [
+              {
+                "name": "赤舌",
+                "count": "1"
+              },
+              {
+                "name": "提灯小僧",
+                "count": "1"
+              },
+              {
+                "name": "灯笼鬼",
+                "count": "2"
+              }
+            ]
+          },
+          {
+            "index": 1,
+            "monsters": [
+              {
+                "name": "鸦天狗",
+                "count": "1"
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "name": "赤舌2",
+        "rounds": [
+          {
+            "index": 0,
+            "monsters": [
+              {
+                "name": "赤舌",
+                "count": "1"
+              },
+              {
+                "name": "天邪鬼黄",
+                "count": "1"
+              },
+              {
+                "name": "童女",
+                "count": "2"
+              }
+            ]
+          },
+          {
+            "index": 1,
+            "monsters": [
+              {
+                "name": "鸦天狗",
+                "count": "1"
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "name": "兵俑1-简单",
+        "rounds": [
+          {
+            "index": 0,
+            "monsters": [
+              {
+                "name": "兵俑",
+                "count": "1"
+              },
+              {
+                "name": "提灯小僧",
+                "count": "1"
+              },
+              {
+                "name": "童女",
+                "count": "2"
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "name": "兵俑2",
+        "rounds": [
+          {
+            "index": 0,
+            "monsters": [
+              {
+                "name": "兵俑",
+                "count": "1"
+              },
+              {
+                "name": "提灯小僧",
+                "count": "1"
+              },
+              {
+                "name": "灯笼鬼",
+                "count": "2"
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "name": "首领：凤凰火",
+        "rounds": [
+          {
+            "index": 0,
+            "monsters": [
+              {
+                "name": "凤凰火",
+                "count": "1"
+              },
+              {
+                "name": "寄生魂",
+                "count": "3"
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "name": "挑战：天邪鬼黄",
+        "rounds": [
+          {
+            "index": 0,
+            "monsters": [
+              {
+                "name": "天邪鬼黄",
+                "count": "14"
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "name": "挑战：铁鼠",
+        "rounds": [
+          {
+            "index": 0,
+            "monsters": [
+              {
+                "name": "铁鼠",
+                "count": "14"
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "name": "挑战：三尾狐",
+        "rounds": [
+          {
+            "index": 0,
+            "monsters": [
+              {
+                "name": "三尾狐",
+                "count": "14"
+              }
+            ]
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "name": "探索 第四章 桥上的雨女",
+    "wars": [
+      {
+        "name": "帚神1",
+        "rounds": [
+          {
+            "index": 0,
+            "monsters": [
+              {
+                "name": "帚神",
+                "count": "1"
+              },
+              {
+                "name": "涂壁",
+                "count": "2"
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "name": "帚神2-简单",
+        "rounds": [
+          {
+            "index": 0,
+            "monsters": [
+              {
+                "name": "帚神",
+                "count": "1"
+              },
+              {
+                "name": "涂壁",
+                "count": "1"
+              },
+              {
+                "name": "唐纸伞妖",
+                "count": "2"
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "name": "帚神2-困难",
+        "rounds": [
+          {
+            "index": 0,
+            "monsters": [
+              {
+                "name": "帚神",
+                "count": "1"
+              },
+              {
+                "name": "唐纸伞妖",
+                "count": "3"
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "name": "唐纸伞妖1",
+        "rounds": [
+          {
+            "index": 0,
+            "monsters": [
+              {
+                "name": "唐纸伞妖",
+                "count": "1"
+              },
+              {
+                "name": "天邪鬼赤",
+                "count": "3"
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "name": "唐纸伞妖2-简单",
+        "rounds": [
+          {
+            "index": 0,
+            "monsters": [
+              {
+                "name": "唐纸伞妖",
+                "count": "1"
+              },
+              {
+                "name": "天邪鬼赤",
+                "count": "1"
+              },
+              {
+                "name": "涂壁",
+                "count": "2"
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "name": "唐纸伞妖2-困难",
+        "rounds": [
+          {
+            "index": 0,
+            "monsters": [
+              {
+                "name": "唐纸伞妖",
+                "count": "1"
+              },
+              {
+                "name": "涂壁",
+                "count": "3"
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "name": "天邪鬼赤1-简单",
+        "rounds": [
+          {
+            "index": 0,
+            "monsters": [
+              {
+                "name": "天邪鬼赤",
+                "count": "1"
+              },
+              {
+                "name": "唐纸伞妖",
+                "count": "1"
+              },
+              {
+                "name": "涂壁",
+                "count": "2"
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "name": "天邪鬼赤1-困难",
+        "rounds": [
+          {
+            "index": 0,
+            "monsters": [
+              {
+                "name": "天邪鬼赤",
+                "count": "1"
+              },
+              {
+                "name": "涂壁",
+                "count": "3"
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "name": "天邪鬼赤2",
+        "rounds": [
+          {
+            "index": 0,
+            "monsters": [
+              {
+                "name": "天邪鬼赤",
+                "count": "1"
+              },
+              {
+                "name": "唐纸伞妖",
+                "count": "2"
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "name": "首领：雨女",
+        "rounds": [
+          {
+            "index": 0,
+            "monsters": [
+              {
+                "name": "雨女",
+                "count": "1"
+              },
+              {
+                "name": "青蛙瓷器",
+                "count": "1"
+              },
+              {
+                "name": "帚神",
+                "count": "2"
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "name": "挑战：雨女",
+        "rounds": [
+          {
+            "index": 0,
+            "monsters": [
+              {
+                "name": "雨女",
+                "count": "14"
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "name": "挑战：青蛙瓷器",
+        "rounds": [
+          {
+            "index": 0,
+            "monsters": [
+              {
+                "name": "青蛙瓷器",
+                "count": "14"
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "name": "挑战：管狐",
+        "rounds": [
+          {
+            "index": 0,
+            "monsters": [
+              {
+                "name": "管狐",
+                "count": "14"
+              }
+            ]
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "name": "探索 第五章 黑夜山的食发鬼",
+    "wars": [
+      {
+        "name": "涂壁1-简单",
+        "rounds": [
+          {
+            "index": 0,
+            "monsters": [
+              {
+                "name": "涂壁",
+                "count": "1"
+              },
+              {
+                "name": "天邪鬼赤",
+                "count": "2"
+              },
+              {
+                "name": "黑豹",
+                "count": "1"
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "name": "涂壁1-困难",
+        "rounds": [
+          {
+            "index": 0,
+            "monsters": [
+              {
+                "name": "涂壁",
+                "count": "1"
+              },
+              {
+                "name": "天邪鬼赤",
+                "count": "2"
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "name": "涂壁2",
+        "rounds": [
+          {
+            "index": 0,
+            "monsters": [
+              {
+                "name": "涂壁",
+                "count": "1"
+              },
+              {
+                "name": "天邪鬼赤",
+                "count": "3"
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "name": "帚神1",
+        "rounds": [
+          {
+            "index": 0,
+            "monsters": [
+              {
+                "name": "帚神",
+                "count": "1"
+              },
+              {
+                "name": "天邪鬼赤",
+                "count": "1"
+              },
+              {
+                "name": "涂壁",
+                "count": "2"
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "name": "帚神2",
+        "rounds": [
+          {
+            "index": 0,
+            "monsters": [
+              {
+                "name": "帚神",
+                "count": "1"
+              },
+              {
+                "name": "天邪鬼赤",
+                "count": "1"
+              },
+              {
+                "name": "天邪鬼黄",
+                "count": "2"
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "name": "管狐1",
+        "rounds": [
+          {
+            "index": 0,
+            "monsters": [
+              {
+                "name": "管狐",
+                "count": "2"
+              },
+              {
+                "name": "天邪鬼黄",
+                "count": "2"
+              }
+            ]
+          },
+          {
+            "index": 1,
+            "monsters": [
+              {
+                "name": "寄生魂",
+                "count": "1"
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "name": "管狐2",
+        "rounds": [
+          {
+            "index": 0,
+            "monsters": [
+              {
+                "name": "管狐",
+                "count": "1"
+              },
+              {
+                "name": "天邪鬼绿",
+                "count": "3"
+              }
+            ]
+          },
+          {
+            "index": 1,
+            "monsters": [
+              {
+                "name": "寄生魂",
+                "count": "1"
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "name": "首领：食发鬼",
+        "rounds": [
+          {
+            "index": 0,
+            "monsters": [
+              {
+                "name": "食发鬼",
+                "count": "1"
+              },
+              {
+                "name": "灯笼鬼",
+                "count": "1"
+              },
+              {
+                "name": "天邪鬼青",
+                "count": "2"
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "name": "挑战：帚神",
+        "rounds": [
+          {
+            "index": 0,
+            "monsters": [
+              {
+                "name": "帚神",
+                "count": "14"
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "name": "挑战：食发鬼",
+        "rounds": [
+          {
+            "index": 0,
+            "monsters": [
+              {
+                "name": "食发鬼",
+                "count": "14"
+              }
+            ]
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "name": "探索 第六章 似梦非梦",
+    "wars": [
+      {
+        "name": "灯笼鬼",
+        "rounds": [
+          {
+            "index": 0,
+            "monsters": [
+              {
+                "name": "灯笼鬼",
+                "count": "1"
+              },
+              {
+                "name": "帚神",
+                "count": "3"
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "name": "天邪鬼青",
+        "rounds": [
+          {
+            "index": 0,
+            "monsters": [
+              {
+                "name": "天邪鬼青",
+                "count": "1"
+              },
+              {
+                "name": "天邪鬼绿",
+                "count": "3"
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "name": "蝴蝶精",
+        "rounds": [
+          {
+            "index": 0,
+            "monsters": [
+              {
+                "name": "蝴蝶精",
+                "count": "1"
+              },
+              {
+                "name": "涂壁",
+                "count": "1"
+              },
+              {
+                "name": "天邪鬼赤",
+                "count": "2"
+              }
+            ]
+          },
+          {
+            "index": 1,
+            "monsters": [
+              {
+                "name": "三尾狐",
+                "count": "1"
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "name": "首领：巫蛊师",
+        "rounds": [
+          {
+            "index": 0,
+            "monsters": [
+              {
+                "name": "巫蛊师",
+                "count": "1"
+              },
+              {
+                "name": "天邪鬼绿",
+                "count": "3"
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "name": "挑战：灯笼鬼",
+        "rounds": [
+          {
+            "index": 0,
+            "monsters": [
+              {
+                "name": "灯笼鬼",
+                "count": "14"
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "name": "挑战：巫蛊师",
+        "rounds": [
+          {
+            "index": 0,
+            "monsters": [
+              {
+                "name": "巫蛊师",
+                "count": "14"
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "name": "挑战：蝴蝶精",
+        "rounds": [
+          {
+            "index": 0,
+            "monsters": [
+              {
+                "name": "蝴蝶精",
+                "count": "14"
+              }
+            ]
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "name": "探索 第七章 恋上鲤的美",
+    "wars": [
+      {
+        "name": "鲤鱼精1",
+        "rounds": [
+          {
+            "index": 0,
+            "monsters": [
+              {
+                "name": "鲤鱼精",
+                "count": "3"
+              },
+              {
+                "name": "帚神",
+                "count": "1"
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "name": "鲤鱼精2",
+        "rounds": [
+          {
+            "index": 0,
+            "monsters": [
+              {
+                "name": "鲤鱼精",
+                "count": "1"
+              },
+              {
+                "name": "帚神",
+                "count": "3"
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "name": "河童1",
+        "rounds": [
+          {
+            "index": 0,
+            "monsters": [
+              {
+                "name": "河童",
+                "count": "1"
+              },
+              {
+                "name": "鲤鱼精",
+                "count": "1"
+              },
+              {
+                "name": "涂壁",
+                "count": "2"
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "name": "河童2",
+        "rounds": [
+          {
+            "index": 0,
+            "monsters": [
+              {
+                "name": "河童",
+                "count": "1"
+              },
+              {
+                "name": "灯笼鬼",
+                "count": "1"
+              },
+              {
+                "name": "跳跳犬",
+                "count": "2"
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "name": "提灯小僧1",
+        "rounds": [
+          {
+            "index": 0,
+            "monsters": [
+              {
+                "name": "提灯小僧",
+                "count": "1"
+              },
+              {
+                "name": "跳跳犬",
+                "count": "3"
+              }
+            ]
+          },
+          {
+            "index": 1,
+            "monsters": [
+              {
+                "name": "管狐",
+                "count": "1"
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "name": "提灯小僧2",
+        "rounds": [
+          {
+            "index": 0,
+            "monsters": [
+              {
+                "name": "提灯小僧",
+                "count": "1"
+              },
+              {
+                "name": "跳跳犬",
+                "count": "3"
+              }
+            ]
+          },
+          {
+            "index": 1,
+            "monsters": [
+              {
+                "name": "管狐",
+                "count": "1"
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "name": "提灯小僧3",
+        "rounds": [
+          {
+            "index": 0,
+            "monsters": [
+              {
+                "name": "提灯小僧",
+                "count": "1"
+              },
+              {
+                "name": "跳跳犬",
+                "count": "1"
+              },
+              {
+                "name": "鲤鱼精",
+                "count": "2"
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "name": "提灯小僧3-困难",
+        "rounds": [
+          {
+            "index": 0,
+            "monsters": [
+              {
+                "name": "提灯小僧",
+                "count": "1"
+              },
+              {
+                "name": "跳跳犬",
+                "count": "1"
+              },
+              {
+                "name": "鲤鱼精",
+                "count": "2"
+              }
+            ]
+          },
+          {
+            "index": 1,
+            "monsters": [
+              {
+                "name": "管狐",
+                "count": "1"
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "name": "首领：妖狐",
+        "rounds": [
+          {
+            "index": 0,
+            "monsters": [
+              {
+                "name": "妖狐",
+                "count": "1"
+              },
+              {
+                "name": "涂壁",
+                "count": "1"
+              },
+              {
+                "name": "座敷童子",
+                "count": "2"
+              }
+            ]
+          },
+          {
+            "index": 1,
+            "monsters": [
+              {
+                "name": "妖狐",
+                "count": "1"
+              },
+              {
+                "name": "寄生魂",
+                "count": "1"
+              },
+              {
+                "name": "天邪鬼赤",
+                "count": "2"
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "name": "挑战：天邪鬼赤",
+        "rounds": [
+          {
+            "index": 0,
+            "monsters": [
+              {
+                "name": "天邪鬼赤",
+                "count": "14"
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "name": "挑战：鲤鱼精",
+        "rounds": [
+          {
+            "index": 0,
+            "monsters": [
+              {
+                "name": "鲤鱼精",
+                "count": "14"
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "name": "挑战：河童",
+        "rounds": [
+          {
+            "index": 0,
+            "monsters": [
+              {
+                "name": "河童",
+                "count": "14"
+              }
+            ]
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "name": "探索 第八章 樱与桃",
+    "wars": [
+      {
+        "name": "唐纸伞妖1",
+        "rounds": [
+          {
+            "index": 0,
+            "monsters": [
+              {
+                "name": "唐纸伞妖",
+                "count": "1"
+              },
+              {
+                "name": "帚神",
+                "count": "3"
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "name": "唐纸伞妖2",
+        "rounds": [
+          {
+            "index": 0,
+            "monsters": [
+              {
+                "name": "唐纸伞妖",
+                "count": "1"
+              },
+              {
+                "name": "山童",
+                "count": "1"
+              },
+              {
+                "name": "帚神",
+                "count": "2"
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "name": "樱花妖1",
+        "rounds": [
+          {
+            "index": 0,
+            "monsters": [
+              {
+                "name": "樱花妖",
+                "count": "1"
+              },
+              {
+                "name": "帚神",
+                "count": "1"
+              },
+              {
+                "name": "涂壁",
+                "count": "2"
+              }
+            ]
+          },
+          {
+            "index": 1,
+            "monsters": [
+              {
+                "name": "雪女",
+                "count": "1"
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "name": "樱花妖2",
+        "rounds": [
+          {
+            "index": 0,
+            "monsters": [
+              {
+                "name": "樱花妖",
+                "count": "1"
+              },
+              {
+                "name": "涂壁",
+                "count": "3"
+              }
+            ]
+          },
+          {
+            "index": 1,
+            "monsters": [
+              {
+                "name": "雪女",
+                "count": "1"
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "name": "天邪鬼绿",
+        "rounds": [
+          {
+            "index": 0,
+            "monsters": [
+              {
+                "name": "天邪鬼绿",
+                "count": "1"
+              },
+              {
+                "name": "天邪鬼青",
+                "count": "1"
+              },
+              {
+                "name": "天邪鬼黄",
+                "count": "2"
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "name": "首领：桃花妖",
+        "rounds": [
+          {
+            "index": 0,
+            "monsters": [
+              {
+                "name": "樱花妖",
+                "count": "1"
+              },
+              {
+                "name": "天邪鬼青",
+                "count": "1"
+              },
+              {
+                "name": "提灯小僧",
+                "count": "2"
+              }
+            ]
+          },
+          {
+            "index": 1,
+            "monsters": [
+              {
+                "name": "桃花妖",
+                "count": "1"
+              },
+              {
+                "name": "帚神",
+                "count": "1"
+              },
+              {
+                "name": "蝴蝶精",
+                "count": "2"
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "name": "挑战：唐纸伞妖",
+        "rounds": [
+          {
+            "index": 0,
+            "monsters": [
+              {
+                "name": "唐纸伞妖",
+                "count": "14"
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "name": "挑战：桃花妖",
+        "rounds": [
+          {
+            "index": 0,
+            "monsters": [
+              {
+                "name": "桃花妖",
+                "count": "14"
+              }
+            ]
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "name": "探索 第九章 兔蛙茶和锅",
+    "wars": [
+      {
+        "name": "提灯小僧1",
+        "rounds": [
+          {
+            "index": 0,
+            "monsters": [
+              {
+                "name": "提灯小僧",
+                "count": "1"
+              },
+              {
+                "name": "灯笼鬼",
+                "count": "3"
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "name": "提灯小僧2",
+        "rounds": [
+          {
+            "index": 0,
+            "monsters": [
+              {
+                "name": "提灯小僧",
+                "count": "1"
+              },
+              {
+                "name": "灯笼鬼",
+                "count": "1"
+              },
+              {
+                "name": "铁鼠",
+                "count": "2"
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "name": "铁鼠1",
+        "rounds": [
+          {
+            "index": 0,
+            "monsters": [
+              {
+                "name": "铁鼠",
+                "count": "1"
+              },
+              {
+                "name": "帚神",
+                "count": "3"
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "name": "铁鼠2",
+        "rounds": [
+          {
+            "index": 0,
+            "monsters": [
+              {
+                "name": "铁鼠",
+                "count": "2"
+              },
+              {
+                "name": "帚神",
+                "count": "2"
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "name": "山兔1",
+        "rounds": [
+          {
+            "index": 0,
+            "monsters": [
+              {
+                "name": "山兔",
+                "count": "4"
+              }
+            ]
+          },
+          {
+            "index": 1,
+            "monsters": [
+              {
+                "name": "鸦天狗",
+                "count": "1"
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "name": "山兔2",
+        "rounds": [
+          {
+            "index": 0,
+            "monsters": [
+              {
+                "name": "山兔",
+                "count": "3"
+              },
+              {
+                "name": "铁鼠",
+                "count": "1"
+              }
+            ]
+          },
+          {
+            "index": 1,
+            "monsters": [
+              {
+                "name": "鸦天狗",
+                "count": "1"
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "name": "首领：孟婆",
+        "rounds": [
+          {
+            "index": 0,
+            "monsters": [
+              {
+                "name": "孟婆",
+                "count": "1"
+              },
+              {
+                "name": "饿鬼",
+                "count": "3"
+              }
+            ]
+          },
+          {
+            "index": 1,
+            "monsters": [
+              {
+                "name": "孟婆",
+                "count": "1"
+              },
+              {
+                "name": "灯笼鬼",
+                "count": "1"
+              },
+              {
+                "name": "鸦天狗",
+                "count": "2"
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "name": "挑战：天邪鬼青",
+        "rounds": [
+          {
+            "index": 0,
+            "monsters": [
+              {
+                "name": "天邪鬼青",
+                "count": "14"
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "name": "挑战：山兔",
+        "rounds": [
+          {
+            "index": 0,
+            "monsters": [
+              {
+                "name": "山兔",
+                "count": "14"
+              }
+            ]
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "name": "探索 第十章 鬼为谁买醉",
+    "wars": [
+      {
+        "name": "丑时之女",
+        "rounds": [
+          {
+            "index": 0,
+            "monsters": [
+              {
+                "name": "丑时之女",
+                "count": "1"
+              },
+              {
+                "name": "傀儡师",
+                "count": "1"
+              },
+              {
+                "name": "天邪鬼青",
+                "count": "2"
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "name": "傀儡师1",
+        "rounds": [
+          {
+            "index": 0,
+            "monsters": [
+              {
+                "name": "傀儡师",
+                "count": "1"
+              },
+              {
+                "name": "觉",
+                "count": "1"
+              },
+              {
+                "name": "狸猫",
+                "count": "2"
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "name": "傀儡师2",
+        "rounds": [
+          {
+            "index": 0,
+            "monsters": [
+              {
+                "name": "傀儡师",
+                "count": "1"
+              },
+              {
+                "name": "觉",
+                "count": "1"
+              },
+              {
+                "name": "座敷童子",
+                "count": "2"
+              }
+            ]
+          },
+          {
+            "index": 1,
+            "monsters": [
+              {
+                "name": "犬神",
+                "count": "1"
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "name": "觉1",
+        "rounds": [
+          {
+            "index": 0,
+            "monsters": [
+              {
+                "name": "觉",
+                "count": "1"
+              },
+              {
+                "name": "狸猫",
+                "count": "3"
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "name": "觉2",
+        "rounds": [
+          {
+            "index": 0,
+            "monsters": [
+              {
+                "name": "觉",
+                "count": "1"
+              },
+              {
+                "name": "赤舌",
+                "count": "1"
+              },
+              {
+                "name": "座敷童子",
+                "count": "2"
+              }
+            ]
+          },
+          {
+            "index": 1,
+            "monsters": [
+              {
+                "name": "犬神",
+                "count": "1"
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "name": "首领：酒吞童子",
+        "rounds": [
+          {
+            "index": 0,
+            "monsters": [
+              {
+                "name": "酒吞童子",
+                "count": "1"
+              },
+              {
+                "name": "跳跳哥哥",
+                "count": "1"
+              },
+              {
+                "name": "食发鬼",
+                "count": "2"
+              }
+            ]
+          },
+          {
+            "index": 1,
+            "monsters": [
+              {
+                "name": "酒吞童子",
+                "count": "1"
+              },
+              {
+                "name": "兵俑",
+                "count": "1"
+              },
+              {
+                "name": "骨女",
+                "count": "2"
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "name": "挑战：武士之灵",
+        "rounds": [
+          {
+            "index": 0,
+            "monsters": [
+              {
+                "name": "武士之灵",
+                "count": "14"
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "name": "挑战：丑时之女",
+        "rounds": [
+          {
+            "index": 0,
+            "monsters": [
+              {
+                "name": "丑时之女",
+                "count": "14"
+              }
+            ]
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "name": "探索 第十一章 染红了的枫叶林",
+    "wars": [
+      {
+        "name": "武士之灵1",
+        "rounds": [
+          {
+            "index": 0,
+            "monsters": [
+              {
+                "name": "武士之灵",
+                "count": "1"
+              },
+              {
+                "name": "寄生魂",
+                "count": "3"
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "name": "武士之灵2",
+        "rounds": [
+          {
+            "index": 0,
+            "monsters": [
+              {
+                "name": "武士之灵",
+                "count": "1"
+              },
+              {
+                "name": "独眼小僧",
+                "count": "3"
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "name": "独眼小僧1-简单",
+        "rounds": [
+          {
+            "index": 0,
+            "monsters": [
+              {
+                "name": "独眼小僧",
+                "count": "1"
+              },
+              {
+                "name": "涂壁",
+                "count": "1"
+              },
+              {
+                "name": "天邪鬼赤",
+                "count": "2"
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "name": "独眼小僧1-困难",
+        "rounds": [
+          {
+            "index": 0,
+            "monsters": [
+              {
+                "name": "独眼小僧",
+                "count": "1"
+              },
+              {
+                "name": "涂壁",
+                "count": "1"
+              },
+              {
+                "name": "天邪鬼赤",
+                "count": "2"
+              }
+            ]
+          },
+          {
+            "index": 1,
+            "monsters": [
+              {
+                "name": "独眼小僧",
+                "count": "1"
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "name": "独眼小僧2-简单",
+        "rounds": [
+          {
+            "index": 0,
+            "monsters": [
+              {
+                "name": "独眼小僧",
+                "count": "1"
+              },
+              {
+                "name": "管狐",
+                "count": "1"
+              },
+              {
+                "name": "天邪鬼赤",
+                "count": "2"
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "name": "独眼小僧2-困难",
+        "rounds": [
+          {
+            "index": 0,
+            "monsters": [
+              {
+                "name": "独眼小僧",
+                "count": "1"
+              },
+              {
+                "name": "管狐",
+                "count": "1"
+              },
+              {
+                "name": "天邪鬼赤",
+                "count": "2"
+              }
+            ]
+          },
+          {
+            "index": 1,
+            "monsters": [
+              {
+                "name": "独眼小僧",
+                "count": "1"
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "name": "饿鬼1",
+        "rounds": [
+          {
+            "index": 0,
+            "monsters": [
+              {
+                "name": "饿鬼",
+                "count": "1"
+              },
+              {
+                "name": "涂壁",
+                "count": "1"
+              },
+              {
+                "name": "管狐",
+                "count": "2"
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "name": "饿鬼2",
+        "rounds": [
+          {
+            "index": 0,
+            "monsters": [
+              {
+                "name": "饿鬼",
+                "count": "3"
+              },
+              {
+                "name": "管狐",
+                "count": "1"
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "name": "首领：鬼女红叶",
+        "rounds": [
+          {
+            "index": 0,
+            "monsters": [
+              {
+                "name": "鬼女红叶",
+                "count": "1"
+              },
+              {
+                "name": "童女",
+                "count": "1"
+              },
+              {
+                "name": "天邪鬼青",
+                "count": "2"
+              }
+            ]
+          },
+          {
+            "index": 1,
+            "monsters": [
+              {
+                "name": "鬼女红叶",
+                "count": "1"
+              },
+              {
+                "name": "骨女",
+                "count": "1"
+              },
+              {
+                "name": "觉",
+                "count": "2"
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "name": "挑战：寄生魂",
+        "rounds": [
+          {
+            "index": 0,
+            "monsters": [
+              {
+                "name": "寄生魂",
+                "count": "14"
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "name": "挑战：饿鬼",
+        "rounds": [
+          {
+            "index": 0,
+            "monsters": [
+              {
+                "name": "饿鬼",
+                "count": "14"
+              }
+            ]
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "name": "探索 第十二章 另一个晴明",
+    "wars": [
+      {
+        "name": "海坊主1",
+        "rounds": [
+          {
+            "index": 0,
+            "monsters": [
+              {
+                "name": "海坊主",
+                "count": "1"
+              },
+              {
+                "name": "帚神",
+                "count": "1"
+              },
+              {
+                "name": "涂壁",
+                "count": "2"
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "name": "海坊主2",
+        "rounds": [
+          {
+            "index": 0,
+            "monsters": [
+              {
+                "name": "海坊主",
+                "count": "1"
+              },
+              {
+                "name": "涂壁",
+                "count": "1"
+              },
+              {
+                "name": "鸦天狗",
+                "count": "2"
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "name": "童男1",
+        "rounds": [
+          {
+            "index": 0,
+            "monsters": [
+              {
+                "name": "童男",
+                "count": "1"
+              },
+              {
+                "name": "天邪鬼黄",
+                "count": "1"
+              },
+              {
+                "name": "鸦天狗",
+                "count": "2"
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "name": "童男2",
+        "rounds": [
+          {
+            "index": 0,
+            "monsters": [
+              {
+                "name": "童男",
+                "count": "1"
+              },
+              {
+                "name": "童女",
+                "count": "1"
+              },
+              {
+                "name": "鸦天狗",
+                "count": "2"
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "name": "童女1",
+        "rounds": [
+          {
+            "index": 0,
+            "monsters": [
+              {
+                "name": "童女",
+                "count": "1"
+              },
+              {
+                "name": "盗墓小鬼",
+                "count": "1"
+              },
+              {
+                "name": "提灯小僧",
+                "count": "2"
+              }
+            ]
+          },
+          {
+            "index": 1,
+            "monsters": [
+              {
+                "name": "雪女",
+                "count": "1"
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "name": "童女2",
+        "rounds": [
+          {
+            "index": 0,
+            "monsters": [
+              {
+                "name": "童女",
+                "count": "3"
+              },
+              {
+                "name": "盗墓小鬼",
+                "count": "1"
+              }
+            ]
+          },
+          {
+            "index": 1,
+            "monsters": [
+              {
+                "name": "雪女",
+                "count": "1"
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "name": "首领：雪女",
+        "rounds": [
+          {
+            "index": 0,
+            "monsters": [
+              {
+                "name": "雪女",
+                "count": "1"
+              },
+              {
+                "name": "寄生魂",
+                "count": "1"
+              },
+              {
+                "name": "武士之灵",
+                "count": "2"
+              }
+            ]
+          },
+          {
+            "index": 1,
+            "monsters": [
+              {
+                "name": "雪女",
+                "count": "1"
+              },
+              {
+                "name": "跳跳妹妹",
+                "count": "1"
+              },
+              {
+                "name": "跳跳哥哥",
+                "count": "2"
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "name": "挑战：童男",
+        "rounds": [
+          {
+            "index": 0,
+            "monsters": [
+              {
+                "name": "童男",
+                "count": "14"
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "name": "挑战：童女",
+        "rounds": [
+          {
+            "index": 0,
+            "monsters": [
+              {
+                "name": "童女",
+                "count": "14"
+              }
+            ]
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "name": "探索 第十三章 箭与弓道",
+    "wars": [
+      {
+        "name": "饿鬼1",
+        "rounds": [
+          {
+            "index": 0,
+            "monsters": [
+              {
+                "name": "饿鬼",
+                "count": "1"
+              },
+              {
+                "name": "天邪鬼赤",
+                "count": "3"
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "name": "饿鬼2",
+        "rounds": [
+          {
+            "index": 0,
+            "monsters": [
+              {
+                "name": "饿鬼",
+                "count": "1"
+              },
+              {
+                "name": "天邪鬼赤",
+                "count": "3"
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "name": "饿鬼3",
+        "rounds": [
+          {
+            "index": 0,
+            "monsters": [
+              {
+                "name": "饿鬼",
+                "count": "1"
+              },
+              {
+                "name": "天邪鬼赤",
+                "count": "3"
+              }
+            ]
+          },
+          {
+            "index": 1,
+            "monsters": [
+              {
+                "name": "首无",
+                "count": "1"
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "name": "唐纸伞妖1",
+        "rounds": [
+          {
+            "index": 0,
+            "monsters": [
+              {
+                "name": "唐纸伞妖",
+                "count": "1"
+              },
+              {
+                "name": "天邪鬼赤",
+                "count": "1"
+              },
+              {
+                "name": "天邪鬼绿",
+                "count": "2"
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "name": "唐纸伞妖2",
+        "rounds": [
+          {
+            "index": 0,
+            "monsters": [
+              {
+                "name": "唐纸伞妖",
+                "count": "1"
+              },
+              {
+                "name": "天邪鬼赤",
+                "count": "1"
+              },
+              {
+                "name": "天邪鬼绿",
+                "count": "2"
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "name": "唐纸伞妖3",
+        "rounds": [
+          {
+            "index": 0,
+            "monsters": [
+              {
+                "name": "唐纸伞妖",
+                "count": "1"
+              },
+              {
+                "name": "天邪鬼赤",
+                "count": "1"
+              },
+              {
+                "name": "天邪鬼绿",
+                "count": "2"
+              }
+            ]
+          },
+          {
+            "index": 1,
+            "monsters": [
+              {
+                "name": "首无",
+                "count": "1"
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "name": "首领：首无",
+        "rounds": [
+          {
+            "index": 0,
+            "monsters": [
+              {
+                "name": "首无",
+                "count": "1"
+              },
+              {
+                "name": "骨女",
+                "count": "1"
+              },
+              {
+                "name": "灯笼鬼",
+                "count": "1"
+              },
+              {
+                "name": "山兔",
+                "count": "1"
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "name": "挑战：涂壁",
+        "rounds": [
+          {
+            "index": 0,
+            "monsters": [
+              {
+                "name": "涂壁",
+                "count": "14"
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "name": "挑战：兵俑",
+        "rounds": [
+          {
+            "index": 0,
+            "monsters": [
+              {
+                "name": "兵俑",
+                "count": "14"
+              }
+            ]
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "name": "探索 第十四章 梦境的邂逅",
+    "wars": [
+      {
+        "name": "帚神1",
+        "rounds": [
+          {
+            "index": 0,
+            "monsters": [
+              {
+                "name": "帚神",
+                "count": "1"
+              },
+              {
+                "name": "天邪鬼赤",
+                "count": "3"
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "name": "帚神2",
+        "rounds": [
+          {
+            "index": 0,
+            "monsters": [
+              {
+                "name": "帚神",
+                "count": "1"
+              },
+              {
+                "name": "天邪鬼赤",
+                "count": "3"
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "name": "帚神3",
+        "rounds": [
+          {
+            "index": 0,
+            "monsters": [
+              {
+                "name": "帚神",
+                "count": "1"
+              },
+              {
+                "name": "天邪鬼赤",
+                "count": "3"
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "name": "涂壁1",
+        "rounds": [
+          {
+            "index": 0,
+            "monsters": [
+              {
+                "name": "涂壁",
+                "count": "6"
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "name": "涂壁2",
+        "rounds": [
+          {
+            "index": 0,
+            "monsters": [
+              {
+                "name": "涂壁",
+                "count": "6"
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "name": "涂壁3",
+        "rounds": [
+          {
+            "index": 0,
+            "monsters": [
+              {
+                "name": "涂壁",
+                "count": "6"
+              }
+            ]
+          },
+          {
+            "index": 1,
+            "monsters": [
+              {
+                "name": "食梦貘",
+                "count": "1"
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "name": "首领：食梦貘",
+        "rounds": [
+          {
+            "index": 0,
+            "monsters": [
+              {
+                "name": "食梦貘",
+                "count": "1"
+              },
+              {
+                "name": "天邪鬼赤",
+                "count": "3"
+              }
+            ]
+          },
+          {
+            "index": 1,
+            "monsters": [
+              {
+                "name": "食梦貘",
+                "count": "4"
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "name": "挑战：盗墓小鬼",
+        "rounds": [
+          {
+            "index": 0,
+            "monsters": [
+              {
+                "name": "盗墓小鬼",
+                "count": "14"
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "name": "挑战：狸猫",
+        "rounds": [
+          {
+            "index": 0,
+            "monsters": [
+              {
+                "name": "狸猫",
+                "count": "14"
+              }
+            ]
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "name": "探索 第十五章 阴界裂缝",
+    "wars": [
+      {
+        "name": "天邪鬼绿1",
+        "rounds": [
+          {
+            "index": 0,
+            "monsters": [
+              {
+                "name": "天邪鬼绿",
+                "count": "1"
+              },
+              {
+                "name": "赤舌",
+                "count": "1"
+              },
+              {
+                "name": "天邪鬼赤",
+                "count": "2"
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "name": "天邪鬼绿2",
+        "rounds": [
+          {
+            "index": 0,
+            "monsters": [
+              {
+                "name": "天邪鬼绿",
+                "count": "1"
+              },
+              {
+                "name": "赤舌",
+                "count": "1"
+              },
+              {
+                "name": "天邪鬼赤",
+                "count": "2"
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "name": "天邪鬼绿3",
+        "rounds": [
+          {
+            "index": 0,
+            "monsters": [
+              {
+                "name": "天邪鬼绿",
+                "count": "1"
+              },
+              {
+                "name": "赤舌",
+                "count": "1"
+              },
+              {
+                "name": "天邪鬼赤",
+                "count": "2"
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "name": "提灯小僧1",
+        "rounds": [
+          {
+            "index": 0,
+            "monsters": [
+              {
+                "name": "提灯小僧",
+                "count": "1"
+              },
+              {
+                "name": "赤舌",
+                "count": "1"
+              },
+              {
+                "name": "九命猫",
+                "count": "2"
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "name": "提灯小僧2",
+        "rounds": [
+          {
+            "index": 0,
+            "monsters": [
+              {
+                "name": "提灯小僧",
+                "count": "1"
+              },
+              {
+                "name": "赤舌",
+                "count": "1"
+              },
+              {
+                "name": "九命猫",
+                "count": "2"
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "name": "提灯小僧3",
+        "rounds": [
+          {
+            "index": 0,
+            "monsters": [
+              {
+                "name": "提灯小僧",
+                "count": "1"
+              },
+              {
+                "name": "赤舌",
+                "count": "1"
+              },
+              {
+                "name": "九命猫",
+                "count": "2"
+              }
+            ]
+          },
+          {
+            "index": 1,
+            "monsters": [
+              {
+                "name": "大天狗",
+                "count": "1"
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "name": "首领：跳跳妹妹",
+        "rounds": [
+          {
+            "index": 0,
+            "monsters": [
+              {
+                "name": "跳跳妹妹",
+                "count": "1"
+              },
+              {
+                "name": "九命猫",
+                "count": "3"
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "name": "挑战：跳跳弟弟",
+        "rounds": [
+          {
+            "index": 0,
+            "monsters": [
+              {
+                "name": "跳跳弟弟",
+                "count": "14"
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "name": "挑战：跳跳妹妹",
+        "rounds": [
+          {
+            "index": 0,
+            "monsters": [
+              {
+                "name": "跳跳妹妹",
+                "count": "14"
+              }
+            ]
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "name": "探索 第十六章 冥界审判",
+    "wars": [
+      {
+        "name": "饿鬼1",
+        "rounds": [
+          {
+            "index": 0,
+            "monsters": [
+              {
+                "name": "饿鬼",
+                "count": "1"
+              },
+              {
+                "name": "山兔",
+                "count": "1"
+              },
+              {
+                "name": "山童",
+                "count": "2"
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "name": "饿鬼2",
+        "rounds": [
+          {
+            "index": 0,
+            "monsters": [
+              {
+                "name": "饿鬼",
+                "count": "1"
+              },
+              {
+                "name": "山兔",
+                "count": "1"
+              },
+              {
+                "name": "山童",
+                "count": "2"
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "name": "饿鬼3",
+        "rounds": [
+          {
+            "index": 0,
+            "monsters": [
+              {
+                "name": "饿鬼",
+                "count": "1"
+              },
+              {
+                "name": "山兔",
+                "count": "1"
+              },
+              {
+                "name": "山童",
+                "count": "2"
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "name": "赤舌1",
+        "rounds": [
+          {
+            "index": 0,
+            "monsters": [
+              {
+                "name": "赤舌",
+                "count": "1"
+              },
+              {
+                "name": "寄生魂",
+                "count": "3"
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "name": "赤舌2",
+        "rounds": [
+          {
+            "index": 0,
+            "monsters": [
+              {
+                "name": "赤舌",
+                "count": "1"
+              },
+              {
+                "name": "寄生魂",
+                "count": "3"
+              }
+            ]
+          },
+          {
+            "index": 1,
+            "monsters": [
+              {
+                "name": "赤舌",
+                "count": "1"
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "name": "赤舌3",
+        "rounds": [
+          {
+            "index": 0,
+            "monsters": [
+              {
+                "name": "赤舌",
+                "count": "1"
+              },
+              {
+                "name": "寄生魂",
+                "count": "3"
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "name": "首领：判官",
+        "rounds": [
+          {
+            "index": 0,
+            "monsters": [
+              {
+                "name": "判官",
+                "count": "1"
+              },
+              {
+                "name": "鬼使黑",
+                "count": "1"
+              },
+              {
+                "name": "鬼使白",
+                "count": "1"
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "name": "挑战：赤舌",
+        "rounds": [
+          {
+            "index": 0,
+            "monsters": [
+              {
+                "name": "赤舌",
+                "count": "14"
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "name": "挑战：山童",
+        "rounds": [
+          {
+            "index": 0,
+            "monsters": [
+              {
+                "name": "山童",
+                "count": "14"
+              }
+            ]
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "name": "探索 第十七章 阴阳逆反",
+    "wars": [
+      {
+        "name": "鸦天狗1",
+        "rounds": [
+          {
+            "index": 0,
+            "monsters": [
+              {
+                "name": "鸦天狗",
+                "count": "1"
+              },
+              {
+                "name": "风小麒麟",
+                "count": "3"
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "name": "鸦天狗2",
+        "rounds": [
+          {
+            "index": 0,
+            "monsters": [
+              {
+                "name": "鸦天狗",
+                "count": "1"
+              },
+              {
+                "name": "风小麒麟",
+                "count": "3"
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "name": "鸦天狗3",
+        "rounds": [
+          {
+            "index": 0,
+            "monsters": [
+              {
+                "name": "鸦天狗",
+                "count": "1"
+              },
+              {
+                "name": "风小麒麟",
+                "count": "3"
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "name": "狸猫1",
+        "rounds": [
+          {
+            "index": 0,
+            "monsters": [
+              {
+                "name": "狸猫",
+                "count": "1"
+              },
+              {
+                "name": "火小麒麟",
+                "count": "3"
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "name": "狸猫2",
+        "rounds": [
+          {
+            "index": 0,
+            "monsters": [
+              {
+                "name": "狸猫",
+                "count": "1"
+              },
+              {
+                "name": "火小麒麟",
+                "count": "3"
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "name": "狸猫3",
+        "rounds": [
+          {
+            "index": 0,
+            "monsters": [
+              {
+                "name": "狸猫",
+                "count": "1"
+              },
+              {
+                "name": "火小麒麟",
+                "count": "3"
+              }
+            ]
+          },
+          {
+            "index": 1,
+            "monsters": [
+              {
+                "name": "黑凤凰",
+                "count": "1"
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "name": "首领：荒川之主",
+        "rounds": [
+          {
+            "index": 0,
+            "monsters": [
+              {
+                "name": "荒川之主",
+                "count": "1"
+              },
+              {
+                "name": "灯笼鬼",
+                "count": "1"
+              },
+              {
+                "name": "骨女",
+                "count": "1"
+              },
+              {
+                "name": "山兔",
+                "count": "1"
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "name": "挑战：萤草",
+        "rounds": [
+          {
+            "index": 0,
+            "monsters": [
+              {
+                "name": "萤草",
+                "count": "14"
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "name": "挑战：鸦天狗",
+        "rounds": [
+          {
+            "index": 0,
+            "monsters": [
+              {
+                "name": "鸦天狗",
+                "count": "14"
+              }
+            ]
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "name": "探索 第十八章 阴阳之理",
+    "wars": [
+      {
+        "name": "九命猫1",
+        "rounds": [
+          {
+            "index": 0,
+            "monsters": [
+              {
+                "name": "九命猫",
+                "count": "6"
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "name": "九命猫2",
+        "rounds": [
+          {
+            "index": 0,
+            "monsters": [
+              {
+                "name": "九命猫",
+                "count": "6"
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "name": "九命猫3",
+        "rounds": [
+          {
+            "index": 0,
+            "monsters": [
+              {
+                "name": "九命猫",
+                "count": "6"
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "name": "三尾狐1",
+        "rounds": [
+          {
+            "index": 0,
+            "monsters": [
+              {
+                "name": "三尾狐",
+                "count": "2"
+              },
+              {
+                "name": "九命猫",
+                "count": "2"
+              }
+            ]
+          },
+          {
+            "index": 1,
+            "monsters": [
+              {
+                "name": "大天狗",
+                "count": "1"
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "name": "三尾狐2",
+        "rounds": [
+          {
+            "index": 0,
+            "monsters": [
+              {
+                "name": "三尾狐",
+                "count": "2"
+              },
+              {
+                "name": "九命猫",
+                "count": "2"
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "name": "三尾狐3",
+        "rounds": [
+          {
+            "index": 0,
+            "monsters": [
+              {
+                "name": "三尾狐",
+                "count": "2"
+              },
+              {
+                "name": "九命猫",
+                "count": "2"
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "name": "首领：大天狗",
+        "rounds": [
+          {
+            "index": 0,
+            "monsters": [
+              {
+                "name": "大天狗",
+                "count": "1"
+              },
+              {
+                "name": "鸦天狗",
+                "count": "3"
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "name": "挑战：独眼小僧",
+        "rounds": [
+          {
+            "index": 0,
+            "monsters": [
+              {
+                "name": "独眼小僧",
+                "count": "14"
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "name": "挑战：觉",
+        "rounds": [
+          {
+            "index": 0,
+            "monsters": [
+              {
+                "name": "觉",
+                "count": "14"
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "name": "挑战：镰鼬",
+        "rounds": [
+          {
+            "index": 0,
+            "monsters": [
+              {
+                "name": "镰鼬",
+                "count": "14"
+              }
+            ]
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "name": "探索 第十九章 八岐大蛇的复仇",
+    "wars": [
+      {
+        "name": "清姬1",
+        "rounds": [
+          {
+            "index": 0,
+            "monsters": [
+              {
+                "name": "二口女",
+                "count": "1"
+              },
+              {
+                "name": "络新妇",
+                "count": "2"
+              },
+              {
+                "name": "清姬",
+                "count": "3"
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "name": "清姬2",
+        "rounds": [
+          {
+            "index": 0,
+            "monsters": [
+              {
+                "name": "清姬",
+                "count": "1"
+              },
+              {
+                "name": "二口女",
+                "count": "3"
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "name": "络新妇1",
+        "rounds": [
+          {
+            "index": 0,
+            "monsters": [
+              {
+                "name": "络新妇",
+                "count": "3"
+              },
+              {
+                "name": "清姬",
+                "count": "3"
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "name": "络新妇2",
+        "rounds": [
+          {
+            "index": 0,
+            "monsters": [
+              {
+                "name": "络新妇",
+                "count": "2"
+              },
+              {
+                "name": "清姬",
+                "count": "2"
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "name": "二口女1",
+        "rounds": [
+          {
+            "index": 0,
+            "monsters": [
+              {
+                "name": "二口女",
+                "count": "1"
+              },
+              {
+                "name": "络新妇",
+                "count": "3"
+              }
+            ]
+          },
+          {
+            "index": 1,
+            "monsters": [
+              {
+                "name": "络新妇",
+                "count": "1"
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "name": "二口女2",
+        "rounds": [
+          {
+            "index": 0,
+            "monsters": [
+              {
+                "name": "二口女",
+                "count": "4"
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "name": "二口女3",
+        "rounds": [
+          {
+            "index": 0,
+            "monsters": [
+              {
+                "name": "古笼火",
+                "count": "1"
+              },
+              {
+                "name": "络新妇",
+                "count": "2"
+              },
+              {
+                "name": "二口女",
+                "count": "3"
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "name": "首领：八百比丘尼",
+        "rounds": [
+          {
+            "index": 0,
+            "monsters": [
+              {
+                "name": "二口女",
+                "count": "1"
+              },
+              {
+                "name": "清姬",
+                "count": "2"
+              },
+              {
+                "name": "孔雀",
+                "count": "2"
+              },
+              {
+                "name": "八百比丘尼",
+                "count": "1"
+              }
+            ]
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "name": "探索 第二十章 堵上性命的仪式",
+    "wars": [
+      {
+        "name": "般若1",
+        "rounds": [
+          {
+            "index": 0,
+            "monsters": [
+              {
+                "name": "二口女",
+                "count": "1"
+              },
+              {
+                "name": "般若",
+                "count": "3"
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "name": "般若2",
+        "rounds": [
+          {
+            "index": 0,
+            "monsters": [
+              {
+                "name": "二口女",
+                "count": "1"
+              },
+              {
+                "name": "古笼火",
+                "count": "3"
+              }
+            ]
+          },
+          {
+            "index": 1,
+            "monsters": [
+              {
+                "name": "凤凰火",
+                "count": "1"
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "name": "般若3",
+        "rounds": [
+          {
+            "index": 0,
+            "monsters": [
+              {
+                "name": "二口女",
+                "count": "1"
+              },
+              {
+                "name": "古笼火",
+                "count": "3"
+              },
+              {
+                "name": "清姬",
+                "count": "2"
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "name": "古笼火1",
+        "rounds": [
+          {
+            "index": 0,
+            "monsters": [
+              {
+                "name": "二口女",
+                "count": "2"
+              },
+              {
+                "name": "清姬",
+                "count": "2"
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "name": "古笼火2",
+        "rounds": [
+          {
+            "index": 0,
+            "monsters": [
+              {
+                "name": "二口女",
+                "count": "1"
+              },
+              {
+                "name": "般若",
+                "count": "4"
+              },
+              {
+                "name": "清姬",
+                "count": "1"
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "name": "清姬1",
+        "rounds": [
+          {
+            "index": 0,
+            "monsters": [
+              {
+                "name": "般若",
+                "count": "3"
+              },
+              {
+                "name": "络新妇",
+                "count": "1"
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "name": "清姬2",
+        "rounds": [
+          {
+            "index": 0,
+            "monsters": [
+              {
+                "name": "古笼火",
+                "count": "5"
+              },
+              {
+                "name": "络新妇",
+                "count": "1"
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "name": "首领：妖刀姬",
+        "rounds": [
+          {
+            "index": 0,
+            "monsters": [
+              {
+                "name": "二口女",
+                "count": "1"
+              },
+              {
+                "name": "般若",
+                "count": "2"
+              },
+              {
+                "name": "古笼火",
+                "count": "2"
+              },
+              {
+                "name": "妖刀姬",
+                "count": "1"
+              }
+            ]
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "name": "探索 第二十一章 七角山的秘闻",
+    "wars": [
+      {
+        "name": "烟烟罗1",
+        "rounds": [
+          {
+            "index": 0,
+            "monsters": [
+              {
+                "name": "烟烟罗",
+                "count": "1"
+              },
+              {
+                "name": "武士之灵",
+                "count": "3"
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "name": "烟烟罗2",
+        "rounds": [
+          {
+            "index": 0,
+            "monsters": [
+              {
+                "name": "烟烟罗",
+                "count": "1"
+              },
+              {
+                "name": "武士之灵",
+                "count": "2"
+              },
+              {
+                "name": "兵俑",
+                "count": "1"
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "name": "食发鬼1",
+        "rounds": [
+          {
+            "index": 0,
+            "monsters": [
+              {
+                "name": "丑时之女",
+                "count": "3"
+              },
+              {
+                "name": "食发鬼",
+                "count": "1"
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "name": "食发鬼2",
+        "rounds": [
+          {
+            "index": 0,
+            "monsters": [
+              {
+                "name": "丑时之女",
+                "count": "2"
+              },
+              {
+                "name": "食发鬼",
+                "count": "1"
+              },
+              {
+                "name": "兵俑",
+                "count": "1"
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "name": "食发鬼3",
+        "rounds": [
+          {
+            "index": 0,
+            "monsters": [
+              {
+                "name": "丑时之女",
+                "count": "2"
+              },
+              {
+                "name": "食发鬼",
+                "count": "1"
+              },
+              {
+                "name": "兵俑",
+                "count": "1"
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "name": "吸血姬1",
+        "rounds": [
+          {
+            "index": 0,
+            "monsters": [
+              {
+                "name": "跳跳弟弟",
+                "count": "3"
+              },
+              {
+                "name": "吸血姬",
+                "count": "1"
+              }
+            ]
+          },
+          {
+            "index": 1,
+            "monsters": [
+              {
+                "name": "夜叉",
+                "count": "1"
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "name": "吸血姬2",
+        "rounds": [
+          {
+            "index": 0,
+            "monsters": [
+              {
+                "name": "跳跳弟弟",
+                "count": "2"
+              },
+              {
+                "name": "武士之灵",
+                "count": "1"
+              }
+            ]
+          },
+          {
+            "index": 1,
+            "monsters": [
+              {
+                "name": "夜叉",
+                "count": "1"
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "name": "首领：萤草",
+        "rounds": [
+          {
+            "index": 0,
+            "monsters": [
+              {
+                "name": "吸血姬",
+                "count": "1"
+              },
+              {
+                "name": "烟烟罗",
+                "count": "2"
+              },
+              {
+                "name": "萤草",
+                "count": "1"
+              }
+            ]
+          },
+          {
+            "index": 1,
+            "monsters": [
+              {
+                "name": "夜叉",
+                "count": "1"
+              },
+              {
+                "name": "烟烟罗",
+                "count": "2"
+              },
+              {
+                "name": "萤草",
+                "count": "1"
+              }
+            ]
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "name": "御魂副本",
+    "wars": [
+      {
+        "name": "第一层",
+        "rounds": [
+          {
+            "index": 0,
+            "monsters": [
+              {
+                "name": "三尾狐",
+                "count": "1"
+              },
+              {
+                "name": "天邪鬼黄",
+                "count": "1"
+              },
+              {
+                "name": "天邪鬼青",
+                "count": "1"
+              }
+            ]
+          },
+          {
+            "index": 1,
+            "monsters": [
+              {
+                "name": "山童",
+                "count": "1"
+              },
+              {
+                "name": "涂壁",
+                "count": "1"
+              },
+              {
+                "name": "独眼小僧",
+                "count": "1"
+              }
+            ]
+          },
+          {
+            "index": 2,
+            "monsters": [
+              {
+                "name": "八歧大蛇",
+                "count": "1"
+              },
+              {
+                "name": "天邪鬼赤",
+                "count": "2"
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "name": "第二层",
+        "rounds": [
+          {
+            "index": 0,
+            "monsters": [
+              {
+                "name": "妖狐",
+                "count": "1"
+              },
+              {
+                "name": "鲤鱼精",
+                "count": "1"
+              },
+              {
+                "name": "河童",
+                "count": "1"
+              }
+            ]
+          },
+          {
+            "index": 1,
+            "monsters": [
+              {
+                "name": "吸血姬",
+                "count": "1"
+              },
+              {
+                "name": "萤草",
+                "count": "1"
+              },
+              {
+                "name": "兵俑",
+                "count": "1"
+              }
+            ]
+          },
+          {
+            "index": 2,
+            "monsters": [
+              {
+                "name": "八歧大蛇",
+                "count": "1"
+              },
+              {
+                "name": "童女",
+                "count": "2"
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "name": "第三层",
+        "rounds": [
+          {
+            "index": 0,
+            "monsters": [
+              {
+                "name": "桃花妖",
+                "count": "1"
+              },
+              {
+                "name": "蝴蝶精",
+                "count": "1"
+              },
+              {
+                "name": "青蛙瓷器",
+                "count": "1"
+              }
+            ]
+          },
+          {
+            "index": 1,
+            "monsters": [
+              {
+                "name": "海坊主",
+                "count": "1"
+              },
+              {
+                "name": "鲤鱼精",
+                "count": "1"
+              },
+              {
+                "name": "椒图",
+                "count": "1"
+              }
+            ]
+          },
+          {
+            "index": 2,
+            "monsters": [
+              {
+                "name": "八歧大蛇",
+                "count": "1"
+              },
+              {
+                "name": "座敷童子",
+                "count": "2"
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "name": "第四层",
+        "rounds": [
+          {
+            "index": 0,
+            "monsters": [
+              {
+                "name": "犬神",
+                "count": "1"
+              },
+              {
+                "name": "童男",
+                "count": "1"
+              },
+              {
+                "name": "童女",
+                "count": "1"
+              }
+            ]
+          },
+          {
+            "index": 1,
+            "monsters": [
+              {
+                "name": "大天狗",
+                "count": "1"
+              },
+              {
+                "name": "鬼使黑",
+                "count": "1"
+              },
+              {
+                "name": "鬼使白",
+                "count": "1"
+              }
+            ]
+          },
+          {
+            "index": 2,
+            "monsters": [
+              {
+                "name": "八歧大蛇",
+                "count": "1"
+              },
+              {
+                "name": "食梦貘",
+                "count": "2"
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "name": "第五层",
+        "rounds": [
+          {
+            "index": 0,
+            "monsters": [
+              {
+                "name": "镰鼬",
+                "count": "1"
+              },
+              {
+                "name": "骨女",
+                "count": "1"
+              },
+              {
+                "name": "丑时之女",
+                "count": "1"
+              }
+            ]
+          },
+          {
+            "index": 1,
+            "monsters": [
+              {
+                "name": "傀儡师",
+                "count": "1"
+              },
+              {
+                "name": "跳跳哥哥",
+                "count": "1"
+              },
+              {
+                "name": "独眼小僧",
+                "count": "1"
+              }
+            ]
+          },
+          {
+            "index": 2,
+            "monsters": [
+              {
+                "name": "八歧大蛇",
+                "count": "1"
+              },
+              {
+                "name": "孟婆",
+                "count": "2"
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "name": "第六层",
+        "rounds": [
+          {
+            "index": 0,
+            "monsters": [
+              {
+                "name": "雨女",
+                "count": "1"
+              },
+              {
+                "name": "孟婆",
+                "count": "1"
+              },
+              {
+                "name": "座敷童子",
+                "count": "1"
+              }
+            ]
+          },
+          {
+            "index": 1,
+            "monsters": [
+              {
+                "name": "阎魔",
+                "count": "1"
+              },
+              {
+                "name": "巫蛊师",
+                "count": "1"
+              },
+              {
+                "name": "鸦天狗",
+                "count": "1"
+              }
+            ]
+          },
+          {
+            "index": 2,
+            "monsters": [
+              {
+                "name": "八歧大蛇",
+                "count": "1"
+              },
+              {
+                "name": "骨女",
+                "count": "2"
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "name": "第七层",
+        "rounds": [
+          {
+            "index": 0,
+            "monsters": [
+              {
+                "name": "丑时之女",
+                "count": "1"
+              },
+              {
+                "name": "凤凰火",
+                "count": "1"
+              },
+              {
+                "name": "食发鬼",
+                "count": "1"
+              }
+            ]
+          },
+          {
+            "index": 1,
+            "monsters": [
+              {
+                "name": "山兔",
+                "count": "1"
+              },
+              {
+                "name": "酒吞童子",
+                "count": "1"
+              },
+              {
+                "name": "妖琴师",
+                "count": "1"
+              }
+            ]
+          },
+          {
+            "index": 2,
+            "monsters": [
+              {
+                "name": "八歧大蛇",
+                "count": "1"
+              },
+              {
+                "name": "荒川之主",
+                "count": "2"
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "name": "第八层",
+        "rounds": [
+          {
+            "index": 0,
+            "monsters": [
+              {
+                "name": "管狐",
+                "count": "1"
+              },
+              {
+                "name": "判官",
+                "count": "1"
+              },
+              {
+                "name": "饿鬼",
+                "count": "1"
+              }
+            ]
+          },
+          {
+            "index": 1,
+            "monsters": [
+              {
+                "name": "蝴蝶精",
+                "count": "1"
+              },
+              {
+                "name": "白狼",
+                "count": "1"
+              },
+              {
+                "name": "椒图",
+                "count": "1"
+              }
+            ]
+          },
+          {
+            "index": 2,
+            "monsters": [
+              {
+                "name": "八歧大蛇",
+                "count": "1"
+              },
+              {
+                "name": "茨木童子",
+                "count": "2"
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "name": "第九层",
+        "rounds": [
+          {
+            "index": 0,
+            "monsters": [
+              {
+                "name": "椒图",
+                "count": "1"
+              },
+              {
+                "name": "萤草",
+                "count": "1"
+              },
+              {
+                "name": "鲤鱼精",
+                "count": "1"
+              }
+            ]
+          },
+          {
+            "index": 1,
+            "monsters": [
+              {
+                "name": "狸猫",
+                "count": "1"
+              },
+              {
+                "name": "清姬",
+                "count": "1"
+              },
+              {
+                "name": "食梦貘",
+                "count": "1"
+              }
+            ]
+          },
+          {
+            "index": 2,
+            "monsters": [
+              {
+                "name": "八歧大蛇",
+                "count": "1"
+              },
+              {
+                "name": "两面佛",
+                "count": "2"
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "name": "第十层",
+        "rounds": [
+          {
+            "index": 0,
+            "monsters": [
+              {
+                "name": "二口女",
+                "count": "1"
+              },
+              {
+                "name": "觉",
+                "count": "1"
+              },
+              {
+                "name": "萤草",
+                "count": "1"
+              }
+            ]
+          },
+          {
+            "index": 1,
+            "monsters": [
+              {
+                "name": "椒图",
+                "count": "1"
+              },
+              {
+                "name": "青行灯",
+                "count": "1"
+              },
+              {
+                "name": "酒吞童子",
+                "count": "1"
+              }
+            ]
+          },
+          {
+            "index": 2,
+            "monsters": [
+              {
+                "name": "八歧大蛇",
+                "count": "1"
+              },
+              {
+                "name": "大天狗",
+                "count": "2"
+              }
+            ]
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "name": "妖气封印",
+    "wars": [
+      {
+        "name": "跳跳哥哥",
+        "rounds": [
+          {
+            "index": 0,
+            "monsters": [
+              {
+                "name": "天邪鬼绿",
+                "count": "4"
+              }
+            ]
+          },
+          {
+            "index": 1,
+            "monsters": [
+              {
+                "name": "帚神",
+                "count": "2"
+              },
+              {
+                "name": "天邪鬼青",
+                "count": "1"
+              },
+              {
+                "name": "天邪鬼赤",
+                "count": "1"
+              }
+            ]
+          },
+          {
+            "index": 2,
+            "monsters": [
+              {
+                "name": "跳跳哥哥",
+                "count": "3"
+              },
+              {
+                "name": "天邪鬼青",
+                "count": "2"
+              },
+              {
+                "name": "天邪鬼黄",
+                "count": "1"
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "name": "椒图",
+        "rounds": [
+          {
+            "index": 0,
+            "monsters": [
+              {
+                "name": "天邪鬼绿",
+                "count": "3"
+              },
+              {
+                "name": "天邪鬼黄",
+                "count": "1"
+              }
+            ]
+          },
+          {
+            "index": 1,
+            "monsters": [
+              {
+                "name": "天邪鬼绿",
+                "count": "3"
+              },
+              {
+                "name": "天邪鬼赤",
+                "count": "1"
+              }
+            ]
+          },
+          {
+            "index": 2,
+            "monsters": [
+              {
+                "name": "椒图",
+                "count": "3"
+              },
+              {
+                "name": "天邪鬼绿",
+                "count": "2"
+              },
+              {
+                "name": "天邪鬼黄",
+                "count": "1"
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "name": "骨女",
+        "rounds": [
+          {
+            "index": 0,
+            "monsters": [
+              {
+                "name": "帚神",
+                "count": "4"
+              }
+            ]
+          },
+          {
+            "index": 1,
+            "monsters": [
+              {
+                "name": "天邪鬼赤",
+                "count": "1"
+              },
+              {
+                "name": "天邪鬼绿",
+                "count": "3"
+              }
+            ]
+          },
+          {
+            "index": 2,
+            "monsters": [
+              {
+                "name": "骨女",
+                "count": "3"
+              },
+              {
+                "name": "天邪鬼绿",
+                "count": "3"
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "name": "饿鬼",
+        "rounds": [
+          {
+            "index": 0,
+            "monsters": [
+              {
+                "name": "涂壁",
+                "count": "1"
+              },
+              {
+                "name": "天邪鬼绿",
+                "count": "3"
+              }
+            ]
+          },
+          {
+            "index": 1,
+            "monsters": [
+              {
+                "name": "唐纸伞妖",
+                "count": "1"
+              },
+              {
+                "name": "天邪鬼绿",
+                "count": "3"
+              }
+            ]
+          },
+          {
+            "index": 2,
+            "monsters": [
+              {
+                "name": "饿鬼",
+                "count": "3"
+              },
+              {
+                "name": "提灯小僧",
+                "count": "3"
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "name": "二口女",
+        "rounds": [
+          {
+            "index": 0,
+            "monsters": [
+              {
+                "name": "帚神",
+                "count": "1"
+              },
+              {
+                "name": "天邪鬼青",
+                "count": "3"
+              }
+            ]
+          },
+          {
+            "index": 1,
+            "monsters": [
+              {
+                "name": "帚神",
+                "count": "3"
+              },
+              {
+                "name": "提灯小僧",
+                "count": "1"
+              }
+            ]
+          },
+          {
+            "index": 2,
+            "monsters": [
+              {
+                "name": "二口女",
+                "count": "1"
+              },
+              {
+                "name": "提灯小僧",
+                "count": "3"
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "name": "海坊主",
+        "rounds": [
+          {
+            "index": 0,
+            "monsters": [
+              {
+                "name": "提灯小僧",
+                "count": "1"
+              },
+              {
+                "name": "天邪鬼黄",
+                "count": "3"
+              }
+            ]
+          },
+          {
+            "index": 1,
+            "monsters": [
+              {
+                "name": "天邪鬼青",
+                "count": "1"
+              },
+              {
+                "name": "天邪鬼绿",
+                "count": "1"
+              },
+              {
+                "name": "天邪鬼赤",
+                "count": "2"
+              }
+            ]
+          },
+          {
+            "index": 2,
+            "monsters": [
+              {
+                "name": "海坊主",
+                "count": "3"
+              },
+              {
+                "name": "提灯小僧",
+                "count": "3"
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "name": "鬼使黑",
+        "rounds": [
+          {
+            "index": 0,
+            "monsters": [
+              {
+                "name": "天邪鬼赤",
+                "count": "1"
+              },
+              {
+                "name": "涂壁",
+                "count": "3"
+              }
+            ]
+          },
+          {
+            "index": 1,
+            "monsters": [
+              {
+                "name": "帚神",
+                "count": "3"
+              },
+              {
+                "name": "涂壁",
+                "count": "1"
+              }
+            ]
+          },
+          {
+            "index": 2,
+            "monsters": [
+              {
+                "name": "鬼使黑",
+                "count": "3"
+              },
+              {
+                "name": "提灯小僧",
+                "count": "3"
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "name": "金币妖怪",
+        "rounds": [
+          {
+            "index": 0,
+            "monsters": [
+              {
+                "name": "铁鼠",
+                "count": "6"
+              }
+            ]
+          },
+          {
+            "index": 1,
+            "monsters": [
+              {
+                "name": "铁鼠",
+                "count": "6"
+              }
+            ]
+          },
+          {
+            "index": 2,
+            "monsters": [
+              {
+                "name": "铁鼠",
+                "count": "6"
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "name": "经验妖怪",
+        "rounds": [
+          {
+            "index": 0,
+            "monsters": [
+              {
+                "name": "奉为达摩",
+                "count": "4"
+              }
+            ]
+          },
+          {
+            "index": 1,
+            "monsters": [
+              {
+                "name": "奉为达摩",
+                "count": "6"
+              }
+            ]
+          },
+          {
+            "index": 2,
+            "monsters": [
+              {
+                "name": "奉为达摩",
+                "count": "6"
+              }
+            ]
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "name": "亚原火",
+    "wars": [
+      {
+        "name": "痴之阵",
+        "rounds": [
+          {
+            "index": 0,
+            "monsters": [
+              {
+                "name": "萤草",
+                "count": "3"
+              },
+              {
+                "name": "妖狐",
+                "count": "1"
+              }
+            ]
+          },
+          {
+            "index": 1,
+            "monsters": [
+              {
+                "name": "三尾狐",
+                "count": "1"
+              },
+              {
+                "name": "椒图",
+                "count": "1"
+              },
+              {
+                "name": "萤草",
+                "count": "1"
+              },
+              {
+                "name": "蝴蝶精",
+                "count": "1"
+              },
+              {
+                "name": "兵俑",
+                "count": "1"
+              }
+            ]
+          },
+          {
+            "index": 2,
+            "monsters": [
+              {
+                "name": "贪",
+                "count": "1"
+              },
+              {
+                "name": "嗔",
+                "count": "1"
+              },
+              {
+                "name": "痴",
+                "count": "1"
+              }
+            ]
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "name": "红叶的羁绊",
+    "wars": [
+      {
+        "name": "第一层 邂逅",
+        "rounds": [
+          {
+            "index": 0,
+            "monsters": [
+              {
+                "name": "管狐",
+                "count": "4"
+              }
+            ]
+          },
+          {
+            "index": 1,
+            "monsters": [
+              {
+                "name": "饿鬼",
+                "count": "4"
+              }
+            ]
+          },
+          {
+            "index": 2,
+            "monsters": [
+              {
+                "name": "鬼女红叶",
+                "count": "1"
+              },
+              {
+                "name": "觉",
+                "count": "3"
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "name": "第二层 别离",
+        "rounds": [
+          {
+            "index": 0,
+            "monsters": [
+              {
+                "name": "管狐",
+                "count": "4"
+              }
+            ]
+          },
+          {
+            "index": 1,
+            "monsters": [
+              {
+                "name": "饿鬼",
+                "count": "4"
+              }
+            ]
+          },
+          {
+            "index": 2,
+            "monsters": [
+              {
+                "name": "鬼女红叶",
+                "count": "1"
+              },
+              {
+                "name": "跳跳妹妹",
+                "count": "1"
+              },
+              {
+                "name": "跳跳弟弟",
+                "count": "1"
+              },
+              {
+                "name": "跳跳哥哥",
+                "count": "1"
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "name": "第三层 暮想",
+        "rounds": [
+          {
+            "index": 0,
+            "monsters": [
+              {
+                "name": "管狐",
+                "count": "4"
+              }
+            ]
+          },
+          {
+            "index": 1,
+            "monsters": [
+              {
+                "name": "饿鬼",
+                "count": "4"
+              }
+            ]
+          },
+          {
+            "index": 2,
+            "monsters": [
+              {
+                "name": "鬼女红叶",
+                "count": "1"
+              },
+              {
+                "name": "首无",
+                "count": "2"
+              },
+              {
+                "name": "三尾狐",
+                "count": "1"
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "name": "第四层 唆摆",
+        "rounds": [
+          {
+            "index": 0,
+            "monsters": [
+              {
+                "name": "管狐",
+                "count": "3"
+              },
+              {
+                "name": "天邪鬼黄",
+                "count": "1"
+              }
+            ]
+          },
+          {
+            "index": 1,
+            "monsters": [
+              {
+                "name": "饿鬼",
+                "count": "3"
+              },
+              {
+                "name": "兵俑",
+                "count": "1"
+              }
+            ]
+          },
+          {
+            "index": 2,
+            "monsters": [
+              {
+                "name": "鬼女红叶",
+                "count": "1"
+              },
+              {
+                "name": "鸦天狗",
+                "count": "2"
+              },
+              {
+                "name": "丑时之女",
+                "count": "1"
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "name": "第五层 意乱",
+        "rounds": [
+          {
+            "index": 0,
+            "monsters": [
+              {
+                "name": "管狐",
+                "count": "3"
+              },
+              {
+                "name": "天邪鬼黄",
+                "count": "1"
+              }
+            ]
+          },
+          {
+            "index": 1,
+            "monsters": [
+              {
+                "name": "饿鬼",
+                "count": "3"
+              },
+              {
+                "name": "兵俑",
+                "count": "1"
+              }
+            ]
+          },
+          {
+            "index": 2,
+            "monsters": [
+              {
+                "name": "鬼女红叶",
+                "count": "1"
+              },
+              {
+                "name": "铁鼠",
+                "count": "2"
+              },
+              {
+                "name": "骨女",
+                "count": "1"
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "name": "第六层 妖变",
+        "rounds": [
+          {
+            "index": 0,
+            "monsters": [
+              {
+                "name": "管狐",
+                "count": "3"
+              },
+              {
+                "name": "赤舌",
+                "count": "1"
+              }
+            ]
+          },
+          {
+            "index": 1,
+            "monsters": [
+              {
+                "name": "饿鬼",
+                "count": "3"
+              },
+              {
+                "name": "椒图",
+                "count": "1"
+              }
+            ]
+          },
+          {
+            "index": 2,
+            "monsters": [
+              {
+                "name": "鬼女红叶",
+                "count": "1"
+              },
+              {
+                "name": "雨女",
+                "count": "2"
+              },
+              {
+                "name": "雪女",
+                "count": "1"
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "name": "第七层 堕落",
+        "rounds": [
+          {
+            "index": 0,
+            "monsters": [
+              {
+                "name": "管狐",
+                "count": "3"
+              },
+              {
+                "name": "赤舌",
+                "count": "1"
+              }
+            ]
+          },
+          {
+            "index": 1,
+            "monsters": [
+              {
+                "name": "饿鬼",
+                "count": "3"
+              },
+              {
+                "name": "椒图",
+                "count": "1"
+              }
+            ]
+          },
+          {
+            "index": 2,
+            "monsters": [
+              {
+                "name": "鬼女红叶",
+                "count": "1"
+              },
+              {
+                "name": "吸血姬",
+                "count": "2"
+              },
+              {
+                "name": "狸猫",
+                "count": "1"
+              },
+              {
+                "name": "酒吞童子",
+                "count": "1"
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "name": "第八层 痴迷",
+        "rounds": [
+          {
+            "index": 0,
+            "monsters": [
+              {
+                "name": "管狐",
+                "count": "3"
+              },
+              {
+                "name": "独眼小僧",
+                "count": "1"
+              }
+            ]
+          },
+          {
+            "index": 1,
+            "monsters": [
+              {
+                "name": "饿鬼",
+                "count": "3"
+              },
+              {
+                "name": "犬神",
+                "count": "1"
+              }
+            ]
+          },
+          {
+            "index": 2,
+            "monsters": [
+              {
+                "name": "鬼女红叶",
+                "count": "1"
+              },
+              {
+                "name": "兵俑",
+                "count": "1"
+              },
+              {
+                "name": "椒图",
+                "count": "1"
+              },
+              {
+                "name": "桃花妖",
+                "count": "1"
+              },
+              {
+                "name": "酒吞童子",
+                "count": "1"
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "name": "第九层 苦恋",
+        "rounds": [
+          {
+            "index": 0,
+            "monsters": [
+              {
+                "name": "管狐",
+                "count": "3"
+              },
+              {
+                "name": "独眼小僧",
+                "count": "1"
+              }
+            ]
+          },
+          {
+            "index": 1,
+            "monsters": [
+              {
+                "name": "饿鬼",
+                "count": "3"
+              },
+              {
+                "name": "犬神",
+                "count": "1"
+              },
+              {
+                "name": "椒图",
+                "count": "1"
+              }
+            ]
+          },
+          {
+            "index": 2,
+            "monsters": [
+              {
+                "name": "鬼女红叶",
+                "count": "1"
+              },
+              {
+                "name": "酒吞童子",
+                "count": "1"
+              },
+              {
+                "name": "桃花妖",
+                "count": "1"
+              },
+              {
+                "name": "鸦天狗",
+                "count": "1"
+              },
+              {
+                "name": "椒图",
+                "count": "1"
+              },
+              {
+                "name": "丑时之女",
+                "count": "1"
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "name": "第十层 羁绊",
+        "rounds": [
+          {
+            "index": 0,
+            "monsters": [
+              {
+                "name": "管狐",
+                "count": "3"
+              },
+              {
+                "name": "独眼小僧",
+                "count": "1"
+              }
+            ]
+          },
+          {
+            "index": 1,
+            "monsters": [
+              {
+                "name": "饿鬼",
+                "count": "3"
+              },
+              {
+                "name": "犬神",
+                "count": "1"
+              },
+              {
+                "name": "椒图",
+                "count": "1"
+              },
+              {
+                "name": "兵俑",
+                "count": "1"
+              }
+            ]
+          },
+          {
+            "index": 2,
+            "monsters": [
+              {
+                "name": "鬼女红叶",
+                "count": "1"
+              },
+              {
+                "name": "酒吞童子",
+                "count": "1"
+              },
+              {
+                "name": "桃花妖",
+                "count": "1"
+              },
+              {
+                "name": "般若",
+                "count": "1"
+              },
+              {
+                "name": "椒图",
+                "count": "1"
+              },
+              {
+                "name": "吸血姬",
+                "count": "1"
+              }
+            ]
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "name": "妖刀的秘籍",
+    "wars": [
+      {
+        "name": "妖刀·一式",
+        "rounds": [
+          {
+            "index": 0,
+            "monsters": [
+              {
+                "name": "天邪鬼青",
+                "count": "4"
+              }
+            ]
+          },
+          {
+            "index": 1,
+            "monsters": [
+              {
+                "name": "狸猫",
+                "count": "4"
+              }
+            ]
+          },
+          {
+            "index": 2,
+            "monsters": [
+              {
+                "name": "妖刀姬",
+                "count": "1"
+              },
+              {
+                "name": "盗墓小鬼",
+                "count": "3"
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "name": "妖刀·二式",
+        "rounds": [
+          {
+            "index": 0,
+            "monsters": [
+              {
+                "name": "天邪鬼青",
+                "count": "4"
+              }
+            ]
+          },
+          {
+            "index": 1,
+            "monsters": [
+              {
+                "name": "狸猫",
+                "count": "4"
+              }
+            ]
+          },
+          {
+            "index": 2,
+            "monsters": [
+              {
+                "name": "妖刀姬",
+                "count": "1"
+              },
+              {
+                "name": "蝴蝶精",
+                "count": "3"
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "name": "妖刀·三式",
+        "rounds": [
+          {
+            "index": 0,
+            "monsters": [
+              {
+                "name": "天邪鬼青",
+                "count": "4"
+              }
+            ]
+          },
+          {
+            "index": 1,
+            "monsters": [
+              {
+                "name": "狸猫",
+                "count": "4"
+              }
+            ]
+          },
+          {
+            "index": 2,
+            "monsters": [
+              {
+                "name": "妖刀姬",
+                "count": "1"
+              },
+              {
+                "name": "雨女",
+                "count": "3"
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "name": "妖刀·四式",
+        "rounds": [
+          {
+            "index": 0,
+            "monsters": [
+              {
+                "name": "天邪鬼青",
+                "count": "3"
+              },
+              {
+                "name": "涂壁",
+                "count": "1"
+              }
+            ]
+          },
+          {
+            "index": 1,
+            "monsters": [
+              {
+                "name": "狸猫",
+                "count": "3"
+              },
+              {
+                "name": "蝴蝶精",
+                "count": "1"
+              }
+            ]
+          },
+          {
+            "index": 2,
+            "monsters": [
+              {
+                "name": "妖刀姬",
+                "count": "1"
+              },
+              {
+                "name": "三尾狐",
+                "count": "3"
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "name": "妖刀·五式",
+        "rounds": [
+          {
+            "index": 0,
+            "monsters": [
+              {
+                "name": "天邪鬼青",
+                "count": "3"
+              },
+              {
+                "name": "涂壁",
+                "count": "1"
+              }
+            ]
+          },
+          {
+            "index": 1,
+            "monsters": [
+              {
+                "name": "狸猫",
+                "count": "3"
+              },
+              {
+                "name": "蝴蝶精",
+                "count": "1"
+              }
+            ]
+          },
+          {
+            "index": 2,
+            "monsters": [
+              {
+                "name": "妖刀姬",
+                "count": "1"
+              },
+              {
+                "name": "傀儡师",
+                "count": "1"
+              },
+              {
+                "name": "二口女",
+                "count": "1"
+              },
+              {
+                "name": "骨女",
+                "count": "1"
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "name": "妖刀·六式",
+        "rounds": [
+          {
+            "index": 0,
+            "monsters": [
+              {
+                "name": "天邪鬼青",
+                "count": "3"
+              },
+              {
+                "name": "天邪鬼绿",
+                "count": "1"
+              }
+            ]
+          },
+          {
+            "index": 1,
+            "monsters": [
+              {
+                "name": "狸猫",
+                "count": "3"
+              },
+              {
+                "name": "鸦天狗",
+                "count": "1"
+              }
+            ]
+          },
+          {
+            "index": 2,
+            "monsters": [
+              {
+                "name": "妖刀姬",
+                "count": "1"
+              },
+              {
+                "name": "桃花妖",
+                "count": "1"
+              },
+              {
+                "name": "樱花妖",
+                "count": "1"
+              },
+              {
+                "name": "清姬",
+                "count": "1"
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "name": "妖刀·七式",
+        "rounds": [
+          {
+            "index": 0,
+            "monsters": [
+              {
+                "name": "天邪鬼青",
+                "count": "3"
+              },
+              {
+                "name": "天邪鬼绿",
+                "count": "1"
+              }
+            ]
+          },
+          {
+            "index": 1,
+            "monsters": [
+              {
+                "name": "狸猫",
+                "count": "3"
+              },
+              {
+                "name": "鸦天狗",
+                "count": "1"
+              }
+            ]
+          },
+          {
+            "index": 2,
+            "monsters": [
+              {
+                "name": "妖刀姬",
+                "count": "1"
+              },
+              {
+                "name": "鬼使黑",
+                "count": "1"
+              },
+              {
+                "name": "鬼使白",
+                "count": "1"
+              },
+              {
+                "name": "判官",
+                "count": "1"
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "name": "妖刀·八式",
+        "rounds": [
+          {
+            "index": 0,
+            "monsters": [
+              {
+                "name": "天邪鬼青",
+                "count": "3"
+              },
+              {
+                "name": "九命猫",
+                "count": "1"
+              }
+            ]
+          },
+          {
+            "index": 1,
+            "monsters": [
+              {
+                "name": "狸猫",
+                "count": "3"
+              },
+              {
+                "name": "鲤鱼精",
+                "count": "1"
+              },
+              {
+                "name": "河童",
+                "count": "1"
+              }
+            ]
+          },
+          {
+            "index": 2,
+            "monsters": [
+              {
+                "name": "妖刀姬",
+                "count": "1"
+              },
+              {
+                "name": "大天狗",
+                "count": "1"
+              },
+              {
+                "name": "青行灯",
+                "count": "1"
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "name": "妖刀·九式",
+        "rounds": [
+          {
+            "index": 0,
+            "monsters": [
+              {
+                "name": "天邪鬼青",
+                "count": "3"
+              },
+              {
+                "name": "九命猫",
+                "count": "1"
+              }
+            ]
+          },
+          {
+            "index": 1,
+            "monsters": [
+              {
+                "name": "狸猫",
+                "count": "3"
+              },
+              {
+                "name": "鲤鱼精",
+                "count": "1"
+              },
+              {
+                "name": "河童",
+                "count": "1"
+              }
+            ]
+          },
+          {
+            "index": 2,
+            "monsters": [
+              {
+                "name": "妖刀姬",
+                "count": "1"
+              },
+              {
+                "name": "大天狗",
+                "count": "1"
+              },
+              {
+                "name": "青行灯",
+                "count": "1"
+              },
+              {
+                "name": "童男",
+                "count": "2"
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "name": "妖刀·十式",
+        "rounds": [
+          {
+            "index": 0,
+            "monsters": [
+              {
+                "name": "天邪鬼青",
+                "count": "2"
+              },
+              {
+                "name": "九命猫",
+                "count": "2"
+              }
+            ]
+          },
+          {
+            "index": 1,
+            "monsters": [
+              {
+                "name": "狸猫",
+                "count": "3"
+              },
+              {
+                "name": "河童",
+                "count": "1"
+              },
+              {
+                "name": "椒图",
+                "count": "1"
+              },
+              {
+                "name": "鲤鱼精",
+                "count": "1"
+              }
+            ]
+          },
+          {
+            "index": 2,
+            "monsters": [
+              {
+                "name": "妖刀姬",
+                "count": "1"
+              },
+              {
+                "name": "妖狐",
+                "count": "2"
+              },
+              {
+                "name": "桃花妖",
+                "count": "1"
+              },
+              {
+                "name": "大天狗",
+                "count": "1"
+              },
+              {
+                "name": "青行灯",
+                "count": "1"
+              }
+            ]
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "name": "河畔童谣",
+    "wars": [
+      {
+        "name": "第一层",
+        "rounds": [
+          {
+            "index": 0,
+            "monsters": [
+              {
+                "name": "盗墓小鬼",
+                "count": "1"
+              },
+              {
+                "name": "提灯小僧",
+                "count": "3"
+              }
+            ]
+          },
+          {
+            "index": 1,
+            "monsters": [
+              {
+                "name": "童女",
+                "count": "1"
+              },
+              {
+                "name": "童男",
+                "count": "3"
+              }
+            ]
+          },
+          {
+            "index": 2,
+            "monsters": [
+              {
+                "name": "河童",
+                "count": "1"
+              },
+              {
+                "name": "奉为达摩",
+                "count": "1"
+              },
+              {
+                "name": "招福达摩",
+                "count": "1"
+              },
+              {
+                "name": "大吉达摩",
+                "count": "1"
+              },
+              {
+                "name": "御行达摩",
+                "count": "1"
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "name": "第二层",
+        "rounds": [
+          {
+            "index": 0,
+            "monsters": [
+              {
+                "name": "盗墓小鬼",
+                "count": "1"
+              },
+              {
+                "name": "提灯小僧",
+                "count": "3"
+              }
+            ]
+          },
+          {
+            "index": 1,
+            "monsters": [
+              {
+                "name": "独眼小僧",
+                "count": "1"
+              },
+              {
+                "name": "山童",
+                "count": "3"
+              }
+            ]
+          },
+          {
+            "index": 2,
+            "monsters": [
+              {
+                "name": "河童",
+                "count": "1"
+              },
+              {
+                "name": "白童子",
+                "count": "1"
+              },
+              {
+                "name": "黑童子",
+                "count": "1"
+              },
+              {
+                "name": "座敷童子",
+                "count": "1"
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "name": "第三层",
+        "rounds": [
+          {
+            "index": 0,
+            "monsters": [
+              {
+                "name": "惠比寿",
+                "count": "1"
+              },
+              {
+                "name": "武士之灵",
+                "count": "3"
+              }
+            ]
+          },
+          {
+            "index": 1,
+            "monsters": [
+              {
+                "name": "烟烟罗",
+                "count": "1"
+              },
+              {
+                "name": "食发鬼",
+                "count": "3"
+              }
+            ]
+          },
+          {
+            "index": 2,
+            "monsters": [
+              {
+                "name": "河童",
+                "count": "1"
+              },
+              {
+                "name": "灯笼鬼",
+                "count": "2"
+              },
+              {
+                "name": "赤舌",
+                "count": "1"
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "name": "第四层",
+        "rounds": [
+          {
+            "index": 0,
+            "monsters": [
+              {
+                "name": "镰鼬",
+                "count": "1"
+              },
+              {
+                "name": "黑豹",
+                "count": "3"
+              }
+            ]
+          },
+          {
+            "index": 1,
+            "monsters": [
+              {
+                "name": "萤草",
+                "count": "1"
+              },
+              {
+                "name": "觉",
+                "count": "3"
+              }
+            ]
+          },
+          {
+            "index": 2,
+            "monsters": [
+              {
+                "name": "河童",
+                "count": "1"
+              },
+              {
+                "name": "丑时之女",
+                "count": "2"
+              },
+              {
+                "name": "兵俑",
+                "count": "1"
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "name": "第五层",
+        "rounds": [
+          {
+            "index": 0,
+            "monsters": [
+              {
+                "name": "天邪鬼黄",
+                "count": "1"
+              },
+              {
+                "name": "蝴蝶精",
+                "count": "2"
+              },
+              {
+                "name": "鬼女红叶",
+                "count": "1"
+              }
+            ]
+          },
+          {
+            "index": 1,
+            "monsters": [
+              {
+                "name": "孟婆",
+                "count": "1"
+              },
+              {
+                "name": "妖琴师",
+                "count": "2"
+              },
+              {
+                "name": "山兔",
+                "count": "1"
+              }
+            ]
+          },
+          {
+            "index": 2,
+            "monsters": [
+              {
+                "name": "河童",
+                "count": "1"
+              },
+              {
+                "name": "樱花妖",
+                "count": "1"
+              },
+              {
+                "name": "桃花妖",
+                "count": "1"
+              },
+              {
+                "name": "凤凰火",
+                "count": "1"
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "name": "第六层",
+        "rounds": [
+          {
+            "index": 0,
+            "monsters": [
+              {
+                "name": "鬼使白",
+                "count": "1"
+              },
+              {
+                "name": "鬼使黑",
+                "count": "3"
+              }
+            ]
+          },
+          {
+            "index": 1,
+            "monsters": [
+              {
+                "name": "座敷童子",
+                "count": "1"
+              },
+              {
+                "name": "古笼火",
+                "count": "3"
+              }
+            ]
+          },
+          {
+            "index": 2,
+            "monsters": [
+              {
+                "name": "河童",
+                "count": "1"
+              },
+              {
+                "name": "天邪鬼青",
+                "count": "1"
+              },
+              {
+                "name": "天邪鬼赤",
+                "count": "1"
+              },
+              {
+                "name": "天邪鬼绿",
+                "count": "1"
+              },
+              {
+                "name": "天邪鬼黄",
+                "count": "1"
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "name": "第七层",
+        "rounds": [
+          {
+            "index": 0,
+            "monsters": [
+              {
+                "name": "青行灯",
+                "count": "1"
+              },
+              {
+                "name": "管狐",
+                "count": "3"
+              }
+            ]
+          },
+          {
+            "index": 1,
+            "monsters": [
+              {
+                "name": "茨木童子",
+                "count": "1"
+              },
+              {
+                "name": "首无",
+                "count": "3"
+              }
+            ]
+          },
+          {
+            "index": 2,
+            "monsters": [
+              {
+                "name": "河童",
+                "count": "1"
+              },
+              {
+                "name": "雨女",
+                "count": "1"
+              },
+              {
+                "name": "判官",
+                "count": "1"
+              },
+              {
+                "name": "食梦貘",
+                "count": "1"
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "name": "第八层",
+        "rounds": [
+          {
+            "index": 0,
+            "monsters": [
+              {
+                "name": "海坊主",
+                "count": "1"
+              },
+              {
+                "name": "青坊主",
+                "count": "3"
+              }
+            ]
+          },
+          {
+            "index": 1,
+            "monsters": [
+              {
+                "name": "荒川之主",
+                "count": "1"
+              },
+              {
+                "name": "吸血姬",
+                "count": "2"
+              },
+              {
+                "name": "椒图",
+                "count": "1"
+              },
+              {
+                "name": "鲤鱼精",
+                "count": "1"
+              }
+            ]
+          },
+          {
+            "index": 2,
+            "monsters": [
+              {
+                "name": "河童",
+                "count": "1"
+              },
+              {
+                "name": "海坊主",
+                "count": "2"
+              },
+              {
+                "name": "椒图",
+                "count": "1"
+              },
+              {
+                "name": "鲤鱼精",
+                "count": "1"
+              },
+              {
+                "name": "荒川之主",
+                "count": "1"
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "name": "第九层",
+        "rounds": [
+          {
+            "index": 0,
+            "monsters": [
+              {
+                "name": "雨女",
+                "count": "1"
+              },
+              {
+                "name": "青蛙瓷器",
+                "count": "3"
+              }
+            ]
+          },
+          {
+            "index": 1,
+            "monsters": [
+              {
+                "name": "妖狐",
+                "count": "1"
+              },
+              {
+                "name": "妖刀姬",
+                "count": "1"
+              },
+              {
+                "name": "鲤鱼精",
+                "count": "1"
+              },
+              {
+                "name": "跳跳妹妹",
+                "count": "1"
+              },
+              {
+                "name": "萤草",
+                "count": "1"
+              }
+            ]
+          },
+          {
+            "index": 2,
+            "monsters": [
+              {
+                "name": "河童",
+                "count": "1"
+              },
+              {
+                "name": "鸦天狗",
+                "count": "2"
+              },
+              {
+                "name": "阎魔",
+                "count": "1"
+              },
+              {
+                "name": "鲤鱼精",
+                "count": "1"
+              },
+              {
+                "name": "大天狗",
+                "count": "1"
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "name": "第十层",
+        "rounds": [
+          {
+            "index": 0,
+            "monsters": [
+              {
+                "name": "兵俑",
+                "count": "1"
+              },
+              {
+                "name": "萤草",
+                "count": "3"
+              }
+            ]
+          },
+          {
+            "index": 1,
+            "monsters": [
+              {
+                "name": "跳跳弟弟",
+                "count": "1"
+              },
+              {
+                "name": "小鹿男",
+                "count": "2"
+              },
+              {
+                "name": "桃花妖",
+                "count": "2"
+              },
+              {
+                "name": "椒图",
+                "count": "1"
+              }
+            ]
+          },
+          {
+            "index": 2,
+            "monsters": [
+              {
+                "name": "河童",
+                "count": "1"
+              },
+              {
+                "name": "樱花妖",
+                "count": "1"
+              },
+              {
+                "name": "鲤鱼精",
+                "count": "1"
+              },
+              {
+                "name": "椒图",
+                "count": "1"
+              },
+              {
+                "name": "妖狐",
+                "count": "1"
+              },
+              {
+                "name": "花鸟卷",
+                "count": "1"
+              }
+            ]
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "name": "雨女的等候",
+    "wars": [
+      {
+        "name": "第一层",
+        "rounds": [
+          {
+            "index": 0,
+            "monsters": [
+              {
+                "name": "唐纸伞妖",
+                "count": "1"
+              },
+              {
+                "name": "盗墓小鬼",
+                "count": "3"
+              }
+            ]
+          },
+          {
+            "index": 1,
+            "monsters": [
+              {
+                "name": "九命猫",
+                "count": "3"
+              },
+              {
+                "name": "铁鼠",
+                "count": "1"
+              }
+            ]
+          },
+          {
+            "index": 2,
+            "monsters": [
+              {
+                "name": "座敷童子",
+                "count": "3"
+              },
+              {
+                "name": "雨女",
+                "count": "1"
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "name": "第二层",
+        "rounds": [
+          {
+            "index": 0,
+            "monsters": [
+              {
+                "name": "唐纸伞妖",
+                "count": "1"
+              },
+              {
+                "name": "盗墓小鬼",
+                "count": "3"
+              }
+            ]
+          },
+          {
+            "index": 1,
+            "monsters": [
+              {
+                "name": "九命猫",
+                "count": "3"
+              },
+              {
+                "name": "铁鼠",
+                "count": "1"
+              }
+            ]
+          },
+          {
+            "index": 2,
+            "monsters": [
+              {
+                "name": "首无",
+                "count": "3"
+              },
+              {
+                "name": "雨女",
+                "count": "1"
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "name": "第三层",
+        "rounds": [
+          {
+            "index": 0,
+            "monsters": [
+              {
+                "name": "唐纸伞妖",
+                "count": "1"
+              },
+              {
+                "name": "盗墓小鬼",
+                "count": "3"
+              }
+            ]
+          },
+          {
+            "index": 1,
+            "monsters": [
+              {
+                "name": "九命猫",
+                "count": "3"
+              },
+              {
+                "name": "铁鼠",
+                "count": "1"
+              }
+            ]
+          },
+          {
+            "index": 2,
+            "monsters": [
+              {
+                "name": "武士之灵",
+                "count": "3"
+              },
+              {
+                "name": "雨女",
+                "count": "1"
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "name": "第四层",
+        "rounds": [
+          {
+            "index": 0,
+            "monsters": [
+              {
+                "name": "赤舌",
+                "count": "1"
+              },
+              {
+                "name": "唐纸伞妖",
+                "count": "3"
+              }
+            ]
+          },
+          {
+            "index": 1,
+            "monsters": [
+              {
+                "name": "丑时之女",
+                "count": "1"
+              },
+              {
+                "name": "觉",
+                "count": "3"
+              }
+            ]
+          },
+          {
+            "index": 2,
+            "monsters": [
+              {
+                "name": "骨女",
+                "count": "4"
+              },
+              {
+                "name": "雨女",
+                "count": "1"
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "name": "第五层",
+        "rounds": [
+          {
+            "index": 0,
+            "monsters": [
+              {
+                "name": "赤舌",
+                "count": "1"
+              },
+              {
+                "name": "唐纸伞妖",
+                "count": "3"
+              }
+            ]
+          },
+          {
+            "index": 1,
+            "monsters": [
+              {
+                "name": "丑时之女",
+                "count": "1"
+              },
+              {
+                "name": "觉",
+                "count": "3"
+              }
+            ]
+          },
+          {
+            "index": 2,
+            "monsters": [
+              {
+                "name": "烟烟罗",
+                "count": "4"
+              },
+              {
+                "name": "雨女",
+                "count": "1"
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "name": "第六层",
+        "rounds": [
+          {
+            "index": 0,
+            "monsters": [
+              {
+                "name": "赤舌",
+                "count": "1"
+              },
+              {
+                "name": "唐纸伞妖",
+                "count": "3"
+              }
+            ]
+          },
+          {
+            "index": 1,
+            "monsters": [
+              {
+                "name": "丑时之女",
+                "count": "1"
+              },
+              {
+                "name": "觉",
+                "count": "3"
+              }
+            ]
+          },
+          {
+            "index": 2,
+            "monsters": [
+              {
+                "name": "夜叉",
+                "count": "4"
+              },
+              {
+                "name": "雨女",
+                "count": "1"
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "name": "第七层",
+        "rounds": [
+          {
+            "index": 0,
+            "monsters": [
+              {
+                "name": "巫蛊师",
+                "count": "1"
+              },
+              {
+                "name": "鸦天狗",
+                "count": "3"
+              }
+            ]
+          },
+          {
+            "index": 1,
+            "monsters": [
+              {
+                "name": "三尾狐",
+                "count": "1"
+              },
+              {
+                "name": "萤草",
+                "count": "2"
+              },
+              {
+                "name": "蝴蝶精",
+                "count": "1"
+              }
+            ]
+          },
+          {
+            "index": 2,
+            "monsters": [
+              {
+                "name": "兵俑",
+                "count": "4"
+              },
+              {
+                "name": "雨女",
+                "count": "1"
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "name": "第八层",
+        "rounds": [
+          {
+            "index": 0,
+            "monsters": [
+              {
+                "name": "巫蛊师",
+                "count": "1"
+              },
+              {
+                "name": "鸦天狗",
+                "count": "3"
+              }
+            ]
+          },
+          {
+            "index": 1,
+            "monsters": [
+              {
+                "name": "跳跳弟弟",
+                "count": "4"
+              },
+              {
+                "name": "蝴蝶精",
+                "count": "1"
+              }
+            ]
+          },
+          {
+            "index": 2,
+            "monsters": [
+              {
+                "name": "河童",
+                "count": "5"
+              },
+              {
+                "name": "雨女",
+                "count": "1"
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "name": "第九层",
+        "rounds": [
+          {
+            "index": 0,
+            "monsters": [
+              {
+                "name": "巫蛊师",
+                "count": "1"
+              },
+              {
+                "name": "鸦天狗",
+                "count": "3"
+              }
+            ]
+          },
+          {
+            "index": 1,
+            "monsters": [
+              {
+                "name": "鬼使白",
+                "count": "2"
+              },
+              {
+                "name": "清姬",
+                "count": "2"
+              },
+              {
+                "name": "判官",
+                "count": "1"
+              }
+            ]
+          },
+          {
+            "index": 2,
+            "monsters": [
+              {
+                "name": "管狐",
+                "count": "5"
+              },
+              {
+                "name": "雨女",
+                "count": "1"
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "name": "第十层",
+        "rounds": [
+          {
+            "index": 0,
+            "monsters": [
+              {
+                "name": "巫蛊师",
+                "count": "1"
+              },
+              {
+                "name": "鸦天狗",
+                "count": "3"
+              }
+            ]
+          },
+          {
+            "index": 1,
+            "monsters": [
+              {
+                "name": "吸血姬",
+                "count": "5"
+              },
+              {
+                "name": "童男",
+                "count": "1"
+              }
+            ]
+          },
+          {
+            "index": 2,
+            "monsters": [
+              {
+                "name": "青蛙瓷器",
+                "count": "5"
+              },
+              {
+                "name": "雨女",
+                "count": "1"
+              }
+            ]
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "name": "荒川之怒",
+    "wars": [
+      {
+        "name": "第一层",
+        "rounds": [
+          {
+            "index": 0,
+            "monsters": [
+              {
+                "name": "赤舌",
+                "count": "1"
+              },
+              {
+                "name": "灯笼鬼",
+                "count": "3"
+              }
+            ]
+          },
+          {
+            "index": 1,
+            "monsters": [
+              {
+                "name": "武士之灵",
+                "count": "1"
+              },
+              {
+                "name": "寄生魂",
+                "count": "3"
+              }
+            ]
+          },
+          {
+            "index": 2,
+            "monsters": [
+              {
+                "name": "盗墓小鬼",
+                "count": "3"
+              },
+              {
+                "name": "荒川之主",
+                "count": "1"
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "name": "第二层",
+        "rounds": [
+          {
+            "index": 0,
+            "monsters": [
+              {
+                "name": "赤舌",
+                "count": "1"
+              },
+              {
+                "name": "灯笼鬼",
+                "count": "3"
+              }
+            ]
+          },
+          {
+            "index": 1,
+            "monsters": [
+              {
+                "name": "武士之灵",
+                "count": "1"
+              },
+              {
+                "name": "寄生魂",
+                "count": "3"
+              }
+            ]
+          },
+          {
+            "index": 2,
+            "monsters": [
+              {
+                "name": "童女",
+                "count": "3"
+              },
+              {
+                "name": "荒川之主",
+                "count": "1"
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "name": "第三层",
+        "rounds": [
+          {
+            "index": 0,
+            "monsters": [
+              {
+                "name": "赤舌",
+                "count": "1"
+              },
+              {
+                "name": "灯笼鬼",
+                "count": "3"
+              }
+            ]
+          },
+          {
+            "index": 1,
+            "monsters": [
+              {
+                "name": "武士之灵",
+                "count": "1"
+              },
+              {
+                "name": "寄生魂",
+                "count": "3"
+              }
+            ]
+          },
+          {
+            "index": 2,
+            "monsters": [
+              {
+                "name": "管狐",
+                "count": "3"
+              },
+              {
+                "name": "荒川之主",
+                "count": "1"
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "name": "第四层",
+        "rounds": [
+          {
+            "index": 0,
+            "monsters": [
+              {
+                "name": "鲤鱼精",
+                "count": "1"
+              },
+              {
+                "name": "河童",
+                "count": "3"
+              }
+            ]
+          },
+          {
+            "index": 1,
+            "monsters": [
+              {
+                "name": "海坊主",
+                "count": "1"
+              },
+              {
+                "name": "蝴蝶精",
+                "count": "3"
+              }
+            ]
+          },
+          {
+            "index": 2,
+            "monsters": [
+              {
+                "name": "鸦天狗",
+                "count": "4"
+              },
+              {
+                "name": "荒川之主",
+                "count": "1"
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "name": "第五层",
+        "rounds": [
+          {
+            "index": 0,
+            "monsters": [
+              {
+                "name": "鲤鱼精",
+                "count": "1"
+              },
+              {
+                "name": "河童",
+                "count": "3"
+              }
+            ]
+          },
+          {
+            "index": 1,
+            "monsters": [
+              {
+                "name": "海坊主",
+                "count": "1"
+              },
+              {
+                "name": "蝴蝶精",
+                "count": "3"
+              }
+            ]
+          },
+          {
+            "index": 2,
+            "monsters": [
+              {
+                "name": "山兔",
+                "count": "4"
+              },
+              {
+                "name": "荒川之主",
+                "count": "1"
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "name": "第六层",
+        "rounds": [
+          {
+            "index": 0,
+            "monsters": [
+              {
+                "name": "鲤鱼精",
+                "count": "1"
+              },
+              {
+                "name": "河童",
+                "count": "3"
+              }
+            ]
+          },
+          {
+            "index": 1,
+            "monsters": [
+              {
+                "name": "海坊主",
+                "count": "1"
+              },
+              {
+                "name": "蝴蝶精",
+                "count": "3"
+              }
+            ]
+          },
+          {
+            "index": 2,
+            "monsters": [
+              {
+                "name": "雪女",
+                "count": "4"
+              },
+              {
+                "name": "荒川之主",
+                "count": "1"
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "name": "第七层",
+        "rounds": [
+          {
+            "index": 0,
+            "monsters": [
+              {
+                "name": "金鱼姬",
+                "count": "1"
+              },
+              {
+                "name": "古笼火",
+                "count": "3"
+              }
+            ]
+          },
+          {
+            "index": 1,
+            "monsters": [
+              {
+                "name": "椒图",
+                "count": "1"
+              },
+              {
+                "name": "夜叉",
+                "count": "4"
+              }
+            ]
+          },
+          {
+            "index": 2,
+            "monsters": [
+              {
+                "name": "清姬",
+                "count": "4"
+              },
+              {
+                "name": "荒川之主",
+                "count": "1"
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "name": "第八层",
+        "rounds": [
+          {
+            "index": 0,
+            "monsters": [
+              {
+                "name": "金鱼姬",
+                "count": "1"
+              },
+              {
+                "name": "古笼火",
+                "count": "3"
+              }
+            ]
+          },
+          {
+            "index": 1,
+            "monsters": [
+              {
+                "name": "惠比寿",
+                "count": "1"
+              },
+              {
+                "name": "夜叉",
+                "count": "4"
+              }
+            ]
+          },
+          {
+            "index": 2,
+            "monsters": [
+              {
+                "name": "海坊主",
+                "count": "5"
+              },
+              {
+                "name": "荒川之主",
+                "count": "1"
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "name": "第九层",
+        "rounds": [
+          {
+            "index": 0,
+            "monsters": [
+              {
+                "name": "金鱼姬",
+                "count": "1"
+              },
+              {
+                "name": "古笼火",
+                "count": "4"
+              }
+            ]
+          },
+          {
+            "index": 1,
+            "monsters": [
+              {
+                "name": "荒川之主",
+                "count": "1"
+              },
+              {
+                "name": "夜叉",
+                "count": "2"
+              },
+              {
+                "name": "烟烟罗",
+                "count": "4"
+              }
+            ]
+          },
+          {
+            "index": 2,
+            "monsters": [
+              {
+                "name": "石距",
+                "count": "1"
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "name": "第十层",
+        "rounds": [
+          {
+            "index": 0,
+            "monsters": [
+              {
+                "name": "金鱼姬",
+                "count": "1"
+              },
+              {
+                "name": "古笼火",
+                "count": "5"
+              }
+            ]
+          },
+          {
+            "index": 1,
+            "monsters": [
+              {
+                "name": "大天狗",
+                "count": "1"
+              },
+              {
+                "name": "夜叉",
+                "count": "4"
+              }
+            ]
+          },
+          {
+            "index": 2,
+            "monsters": [
+              {
+                "name": "桃花妖",
+                "count": "1"
+              },
+              {
+                "name": "青行灯",
+                "count": "1"
+              },
+              {
+                "name": "姑获鸟",
+                "count": "1"
+              },
+              {
+                "name": "惠比寿",
+                "count": "1"
+              },
+              {
+                "name": "荒川之主",
+                "count": "1"
+              }
+            ]
+          }
+        ]
+      }
+    ]
+  }
+]
